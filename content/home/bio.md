@@ -32,4 +32,4 @@ advanced:
 author: admin
 ---
 
-I'm a science writer developing my skills and honing my writerly vibes in the science communication master's program at the University of California, Santa Cruz. I'm also a biochemist with a doctorate from the University of Colorado Boulder.
+I'm a science writer developing my skills and honing my writerly vibes in the science communication master's program at the University of California, Santa Cruz. I'm also a certified (Ph.D., University of Colorado Boulder 2021) but non-practicing biochemist.
