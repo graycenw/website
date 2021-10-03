@@ -1,45 +1,37 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Sustained cell migration is essential for wound healing and cancer metastasis. The epidermal growth factor receptor (EGFR) signaling cascade is known to drive cell migration and proliferation. While the signal transduction downstream of EGFR has been extensively investigated, our knowledge of the initiation and maintenance of EGFR signaling during cell migration remains limited. The metalloprotease TACE (tumor necrosis factor alpha converting enzyme) is responsible for producing active EGFR family ligands in the via ligand shedding. Sustained TACE activity may perpetuate EGFR signaling and reduce a cell’s reliance on exogenous growth factors. Using a cultured keratinocyte model system, we show that depletion of α-catenin perturbs adherens junctions, enhances cell proliferation and motility, and decreases dependence on exogenous growth factors. We show that the underlying mechanism for these observed phenotypical changes depends on enhanced autocrine/paracrine release of the EGFR ligand transforming growth factor alpha in a TACE-dependent manner. We demonstrate that proliferating keratinocyte epithelial cell clusters display waves of oscillatory extracellular signal–regulated kinase (ERK) activity, which can be eliminated by TACE knockout, suggesting that these waves of oscillatory ERK activity depend on autocrine/paracrine signals produced by TACE. These results provide new insights into the regulatory role of adherens junctions in initiating and maintaining autocrine/paracrine signaling with relevance to wound healing and cellular transformation.
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
+- Eric N. Bunker
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Douglas A. Chapnick
+- Xuedong Liu
+date: "2021-02-15T00:00:00Z"
+doi: "https://doi.org/10.1091/mbc.E19-08-0474"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Molecular Biology of the Cell,* 32(4): 311-361'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Perturbation of adherens junctions elevates autocrine TGF-α signaling via membrane-bound protease TACE.
 tags:
 - Source Themes
-title: An example journal article
+title: Suppression of alpha-catenin and adherens junctions enhances epithelial cell proliferation and motility via TACE-mediated TGF-alpha autocrine/paracrine signaling
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
