@@ -1,6 +1,6 @@
 ---
 title: Buffs Talk Science
-summary: A podcasts about science from CU Boulder and beyond hosted by Graycen Wheeler and Alison Gilchrist.
+summary: A podcast about science from CU Boulder and beyond hosted by Graycen Wheeler and Alison Gilchrist from 2018 - 2020.
 tags:
 - podcasting
 - science news
