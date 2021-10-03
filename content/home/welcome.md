@@ -6,10 +6,10 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
-title: ""
+title: "Howdy!"
 subtitle: ""
 design:
   columns: '3'
 ---
 
-I'm a science writer developing my skills and honing my writerly vibes as a student in the science communication master's program at the University of California, Santa Cruz. I'm also a biochemist with a doctorate from the University of Colorado Boulder.
+I'm a science writer developing my skills and honing my writerly vibes in the science communication master's program at the University of California, Santa Cruz. I'm also a certified (Ph.D., University of Colorado Boulder 2021) but non-practicing biochemist.
