@@ -10,11 +10,11 @@ role: Science Writer
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Santa Cruz science communication master's program
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a science writer, a biochemist, a table-top RPG enthusiast, and several other things I can't think of right now.
+bio: I'm a science writer, a biochemist, a table-top RPG enthusiast, and several other things.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
