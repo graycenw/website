@@ -12,7 +12,7 @@ date: "2021-02-15T00:00:00Z"
 doi: "https://doi.org/10.1091/mbc.E19-08-0474"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
 projects: []
@@ -21,7 +21,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: ""
 summary: Perturbation of adherens junctions elevates autocrine TGF-α signaling via membrane-bound protease TACE.
 tags:
 - Source Themes
