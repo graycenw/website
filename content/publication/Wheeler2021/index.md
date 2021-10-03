@@ -1,5 +1,5 @@
 ---
-abstract: Collective cellular migration plays a key role in many fundamental biological processes including development, wound healing, and cancer metastasis. To understand the regulation of cell motility, we must be able to measure it easily and consistently under different conditions. Here we describe a method for measuring and quantifying single-cell and bulk motility of HaCaT keratinocytes using a nuclear stain. This method includes a MATLAB script for analyzing TrackMate output files to calculate displacements, motility rates, and trajectory angles in single cells and in bulk for an imaging site. This motility analysis script allows for quick, straightforward, and scalable analysis of cell motility rates from TrackMate data and could be broadly used to identify and study the regulation of motility in epithelial cells. We also provide a MATLAB script for reorganizing microscopy videos collected on a Molecular Devices ImageXpress Micro XL microscope and converting them to TIF stacks, which can be analyzed using the ImageJ TrackMate plugin in bulk. Using this methodology to explore the roles of adherens junctions and actin cytoskeletal dynamics in regulating cell motility in HaCaT keratinocytes, we demonstrate evidence that Arp2/3 activity is required for the elevated motility seen after α-catenin depletion in HaCaT keratinocytes
+abstract: Collective cellular migration plays a key role in many fundamental biological processes including development, wound healing, and cancer metastasis. To understand the regulation of cell motility, we must be able to measure it easily and consistently under different conditions. Here we describe a method for measuring and quantifying single-cell and bulk motility of HaCaT keratinocytes using a nuclear stain. This method includes a MATLAB script for analyzing TrackMate output files to calculate displacements, motility rates, and trajectory angles in single cells and in bulk for an imaging site. This motility analysis script allows for quick, straightforward, and scalable analysis of cell motility rates from TrackMate data and could be broadly used to identify and study the regulation of motility in epithelial cells. We also provide a MATLAB script for reorganizing microscopy videos collected on a Molecular Devices ImageXpress Micro XL microscope and converting them to TIF stacks, which can be analyzed using the ImageJ TrackMate plugin in bulk. Using this methodology to explore the roles of adherens junctions and actin cytoskeletal dynamics in regulating cell motility in HaCaT keratinocytes, we demonstrate evidence that Arp2/3 activity is required for the elevated motility seen after α-catenin depletion in HaCaT keratinocytes.
 
 author_notes: ""
 
@@ -23,7 +23,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
-summary: We developed a protocol for analyzing TrackMate outputs in bulk.
+summary: Does what it says on the tin.
 tags:
 - biochemistry
 - doctoral work
