@@ -32,9 +32,9 @@ social:
   link: https://scholar.google.com/citations?user=S37Ek6cAAAAJ&hl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
