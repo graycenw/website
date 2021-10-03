@@ -24,7 +24,9 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 summary: Perturbation of adherens junctions elevates autocrine TGF-α signaling via membrane-bound protease TACE.
 tags:
-- Source Themes
+- biochemistry
+- doctoral work
+- cellular motility
 title: Suppression of alpha-catenin and adherens junctions enhances epithelial cell proliferation and motility via TACE-mediated TGF-alpha autocrine/paracrine signaling
 url_code: ""
 url_dataset: ""
