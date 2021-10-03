@@ -12,4 +12,4 @@ design:
   columns: '3'
 ---
 
-I'm developing my skills and honing my writerly vibes in the science communication master's program at the University of California, Santa Cruz. I'm also a certified (Ph.D., University of Colorado Boulder 2021) but non-practicing biochemist, a tabletop RPG entusiast, a bike rider, and a cat person.
+I'm developing my skills and honing my writerly vibes in the science communication master's program at the University of California, Santa Cruz. I'm also a non-practicing biochemist, a tabletop RPG entusiast, a bike rider, and a cat person.
