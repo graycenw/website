@@ -12,7 +12,7 @@ date: "2021-02-15T00:00:00Z"
 doi: "https://doi.org/10.1091/mbc.E19-08-0474"
 featured: true
 image:
-  caption: "Activation of he TACE-TGF-alpha-EGF signaling loop sustains elevated proliferation and motility in keratinocytes. *Created with Biorender.*"
+  caption: "Created with Biorender."
   focal_point: ""
   preview_only: false
 projects: []
@@ -22,7 +22,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
-summary: Perturbation of adherens junctions elevates autocrine TGF-α signaling via membrane-bound protease TACE.
+summary: Perturbation of adherens junctions elevates autocrine TGF-α signaling via membrane-bound protease TACE, which sustains elevated proliferation and motility in keratinocytes.
 tags:
 - biochemistry
 - doctoral work
