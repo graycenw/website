@@ -34,7 +34,7 @@ date: "2021-06-24T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0237055"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
 projects: []
