@@ -10,7 +10,7 @@ authors:
 - Xuedong Liu
 date: "2021-02-15T00:00:00Z"
 doi: "https://doi.org/10.1091/mbc.E19-08-0474"
-featured: true
+featured: false
 image:
   caption: "Created with Biorender."
   focal_point: ""
