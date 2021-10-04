@@ -11,7 +11,7 @@ authors: []
 date: "2019-09-19T19:00:00Z"
 date_end: "2019-09-19T21:00:00Z"
 event: Ignite Boulder 39
-event_url: https://igniteboulder.com/
+event_url: ""
 featured: true
 image:
   caption: ""
