@@ -29,20 +29,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Book
-    tag: 'book'
-  - name: Music
-    tag: 'music'
-  - name: Game
-    tag: 'game'
-  - name: Multimedia
-    tag: 'dev'
-  - name: Web
-    tag: 'webdev'
-  - name: Social
-    tag: 'social'
-  - name: Education
-    tag: 'edu'
+  - name: Writing
+    tag: 'writing'
+  - name: Podcasting
+    tag: 'podcasting'
+  - name: Talks
+    tag: 'talks'
+  - name: Research
+    tag: 'research'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -53,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
