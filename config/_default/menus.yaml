@@ -7,12 +7,9 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Writing
+  - name: Portfolio
     url: '/projects'
     weight: 20
-  - name: Project
-    url: '/project'
-    weight: 30
   - name: Events
     url: '/event'
     weight: 40
