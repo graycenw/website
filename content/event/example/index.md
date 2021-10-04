@@ -1,37 +1,37 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: [Ignite Boulder](https://igniteboulder.com/) is a night of presentations on a whole slew of geeky topics – with a twist! Each presentation has 20 slides, that automatically advance after 15 seconds. Ignite events happen all over, but Boulder hosts the largest in the world every 2 or 3 months. I was selected to give a talk about my RPG group and the delights of group catharsis, which ended with the >1000-member audience doing an extremely exhilerating group holler.
 address:
-  city: Stanford
+  city: Boulder
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: ""
+  region: CO
+  street: ""
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
-featured: false
+date: "2019-09-19T19:00:00Z"
+date_end: ""
+event: Ignite Boulder 39
+event_url: https://igniteboulder.com/
+featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-location: Wowchemy HQ
+  caption: ""
+  focal_point: smart
+location: Chautauqua Auditorium
 math: true
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+slides: ""
+summary: A talk about tabletop RPGs and the special privilege of being goofy with a group. Also, this was way before people started howling every day at 8:00 pm; this doesn't have anything to do with that.
 tags: []
-title: Example Talk
+title: How I Learned to Stop Worrying and Awoooooo
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=Sc4XvoSLQzs"
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
 
 Slides can be added in a few ways:
 
