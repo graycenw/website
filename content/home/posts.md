@@ -1,20 +1,20 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 60
 
-title: "Writing"
+title: ""
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: post
   filters:
     featured_only: true
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
@@ -36,7 +36,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
