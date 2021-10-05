@@ -35,8 +35,6 @@ content:
     tag: 'podcasting'
   - name: Talks
     tag: 'talks'
-  - name: Research
-    tag: 'research'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
