@@ -4,8 +4,9 @@ name = "Custom"
 # Is theme light or dark?
 light = true
 
+
 # Primary
-primary = "#dd2c00"
+primary = "#c67439"
 
 # Menu
 menu_primary = "#000"
