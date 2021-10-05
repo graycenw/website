@@ -4,6 +4,7 @@ summary: Bees expertly solve the problem of too-hot hives all the time–Orit Pe
 tags:
 - writing
 - science news
+- bees
 - Science Buffs
 date: "2019-04-02T00:00:00Z"
 
