@@ -10,9 +10,6 @@ main:
   - name: Portfolio
     url: '/projects'
     weight: 20
-  - name: Events
-    url: '/event'
-    weight: 40
   - name: Research
     url: '/publication'
     weight: 50
