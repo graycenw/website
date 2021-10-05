@@ -4,6 +4,7 @@ summary: A podcast about science from CU Boulder and beyond hosted by Graycen Wh
 tags:
 - podcasting
 - science news
+- bees
 date: "2020-12-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
