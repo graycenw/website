@@ -21,15 +21,18 @@ bio: I'm a science writer, a biochemist, a table-top RPG enthusiast, and several
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/contact'  # For a direct email link, use "mailto:graycen.wheeler@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GraycenWheeler
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/graycen-wheeler/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=S37Ek6cAAAAJ&hl
+- icon: envelope
+  icon_pack: fas
+  link: '/contact'  # For a direct email link, use "mailto:graycen.wheeler@gmail.com".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 #- icon: cv
