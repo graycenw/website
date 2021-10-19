@@ -12,4 +12,4 @@ design:
   columns: '3'
 ---
 
-I'm a science writer developing my skills and honing my writerly vibes in the UC Santa Cruz science communication master's program. I'm also a non-practicing biochemist, a tabletop RPG entusiast, a bike rider, and a cat person.
+I'm a science writer developing my skills and honing my writerly vibes in the UC Santa Cruz science communication master's program. I'm also a non-practicing biochemist, a tabletop RPG enthusiast, a bike rider, and a cat person.
