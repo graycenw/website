@@ -12,4 +12,4 @@ design:
   columns: '3'
 ---
 
-I'm a science writer developing my skills and honing my writerly vibes in the UC Santa Cruz science communication master's program. I'm also a non-practicing biochemist, a tabletop RPG enthusiast, a bike rider, and a cat person.
+Graycen Wheeler is a science writer developing her skills and honing her writerly vibes in the UC Santa Cruz science communication master's program. She's also a non-practicing biochemist, a tabletop RPG enthusiast, a bike rider, and a cat person.
