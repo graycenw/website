@@ -26,7 +26,7 @@ image:
   caption: 'Rushenb, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0>) via Wikimedia Commons'
   focal_point: center
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
