@@ -3,7 +3,7 @@ title: Carcinization
 subtitle: All the world's a crab.
 
 # Summary for listings and search engines
-summary: A definition in the style of Discover Magazine's "That Word You Heard" for the UCSC SciCom program.
+summary: A definition in the style of Discover Magazine's "That Word You Heard."
 
 # Link this post with a project
 projects: []
