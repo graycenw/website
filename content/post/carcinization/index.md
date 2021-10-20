@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'New blog'
+  caption: 'Rushenb, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0>) via Wikimedia Commons'
   focal_point: center
   placement: 2
   preview_only: false
