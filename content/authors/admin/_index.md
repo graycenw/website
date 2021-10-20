@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a science writer, a biochemist, a table-top RPG enthusiast, and several other things.
+bio: Graycen is a science writer, a biochemist, a tabletop RPG enthusiast, and several other things.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
