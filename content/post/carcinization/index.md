@@ -1,6 +1,6 @@
 ---
 title: Carcinization
-subtitle: All the world's a crab.
+subtitle: ""
 
 # Summary for listings and search engines
 summary: A definition in the style of Discover Magazine's "That Word You Heard."
