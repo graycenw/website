@@ -20,7 +20,7 @@ design:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
     image: landscape.png  # Name of image in `static/media/`.
-    image_darken: 0.3
+    image_darken: 0.8
     image_size: cover
     image_position: center
     image_parallax: false
