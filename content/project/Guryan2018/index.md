@@ -1,6 +1,6 @@
 ---
 title: "Day in the Life: Grace Guryan"
-summary: Science Buffs | July 2, 2021
+summary: Science Buffs | July 2, 2018
 tags:
 - writing
 - Science Buffs
