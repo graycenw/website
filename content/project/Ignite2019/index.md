@@ -1,6 +1,6 @@
 ---
 title: "How I learned to stop worrying and awoooooo"
-summary: Ignite 39 | September 19, 2019
+summary: Ignite Boulder 39 | September 19, 2019
 tags:
 - talks
 - goofiness
