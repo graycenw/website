@@ -10,15 +10,15 @@ primary = "#c67439"
 
 # Menu
 menu_primary = "#000"
-menu_text = "#fff"
+menu_text = "#EEE2DC"
 menu_text_active = "#c67439"
-menu_title = "#fff"
+menu_title = "#EEE2DC"
 
 # Backgrounds
 background = "#f6f0ed"
 home_section_odd = "#f6f0ed"
 home_section_even = "#f6f0ed"
 
-#EE2DC is a nice grayish pink - slightly too dark for background?
+#EEE2DC is a nice grayish pink - slightly too dark for background?
 
 font = "my_fonts"
