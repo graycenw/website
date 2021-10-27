@@ -15,8 +15,10 @@ menu_text_active = "#c67439"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#EEE2DC"
-home_section_odd = "#EEE2DC"
-home_section_even = "#EEE2DC"
+background = "#f6f0ed"
+home_section_odd = "#f6f0ed"
+home_section_even = "#f6f0ed"
+
+#EE2DC is a nice grayish pink - slightly too dark for background?
 
 font = "my_fonts"
