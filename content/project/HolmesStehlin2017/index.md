@@ -1,6 +1,6 @@
 ---
 title: "Graduate Student Snapshot: Zac Holmes"
-summary: Graduate student Zac Holmes and his fiancé raise bees–including a queen called Hillabee Clinton.
+summary: Science Buffs | November 11, 2017
 tags:
 - writing
 - bees
