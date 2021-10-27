@@ -1,8 +1,6 @@
 ---
 title: Why you should be a big fan of Orit Peleg’s model for beehive ventilation
-subtitle: Science Buffs
-summary: Bees expertly solve the problem of too-hot hives all the time–Orit Peleg is studying how.
-tags:
+summary: Science Buffs
 - writing
 - science news
 - bees
