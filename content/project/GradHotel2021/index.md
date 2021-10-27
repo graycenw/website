@@ -1,6 +1,6 @@
 ---
 title: Rental housing market squeezed by pandemic, wildfire in Santa Cruz County
-summary: About 48 UC Santa Cruz graduate students are housed with a university subsidy at Best Western Plus All Suites Inn at 500 Ocean St. in Santa Cruz this fall.
+summary: Santa Cruz Local | October 22, 2021
 tags:
 - writing
 - UCSC
