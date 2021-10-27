@@ -15,8 +15,8 @@ menu_text_active = "#c67439"
 menu_title = "#fff"
 
 # Backgrounds
-background = "#fff"
-home_section_odd = "#fff"
-home_section_even = "#fff"
+background = "#EEE2DC"
+home_section_odd = "#EEE2DC"
+home_section_even = "#EEE2DC"
 
-font = "rose"
+font = "my_fonts"
