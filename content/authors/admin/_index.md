@@ -6,7 +6,7 @@ title: Graycen Wheeler
 superuser: true
 
 # Role/position
-role: Science journalist
+role: Science journalist (MS '22) | Biochemist (PhD '21)
 
 # Organizations/Affiliations
 organizations:
