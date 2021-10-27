@@ -1,8 +1,8 @@
 ---
 title: Why you should be a big fan of Orit Peleg’s model for beehive ventilation
-summary:
-- Science Buffs
-- April 2, 2019"
+summary: Science Buffs
+\
+April 2, 2019
 tags:
 - writing
 - science news
