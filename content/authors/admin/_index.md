@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Graycen Wheeler
+title: Graycen Wheeler, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Science journalist (MS '22) | Biochemist (PhD '21)
+role: Science journalist
 
 # Organizations/Affiliations
 organizations:
