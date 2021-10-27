@@ -9,7 +9,7 @@ light = true
 primary = "#c67439"
 
 # Menu
-menu_primary = "#1d2a33"
+menu_primary = "#142023"
 menu_text = "#EEE2DC"
 menu_text_active = "#c67439"
 menu_title = "#EEE2DC"
