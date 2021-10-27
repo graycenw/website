@@ -1,6 +1,6 @@
 ---
 title: "Day in the Life: Grace Guryan"
-summary: Hydrologist and hydrogeologist Grace Guryan talks fieldwork, water law and conservation with *Science Buffs* reporter Graycen Wheeler.
+summary: Science Buffs | July 2, 2021
 tags:
 - writing
 - Science Buffs
