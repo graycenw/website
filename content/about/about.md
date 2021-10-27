@@ -14,4 +14,4 @@ design:
 
 Graycen Wheeler is a freelance science journalist and a master's student in the SciCom program at the University of California, Santa Cruz. She's also a non-practicing biochemist, a tabletop RPG enthusiast, a bike rider and a cat person.
 
-While a doctoral student at the University of Colorado Boulder, Graycen served as the editor in chief of [Science Buffs](https://sciencebuffs.org/) and hosted its affiliate podcast, [Buffs Talk Science](https://buffstalkscience.com).
+While a doctoral student at the University of Colorado Boulder, Graycen acted as Editor in Chief for [Science Buffs](https://sciencebuffs.org/) and hosted its affiliate podcast, [Buffs Talk Science](https://buffstalkscience.com). She also served as the chairperson and lead organizer of ComSciCon Rocky Mountain West in 2019 and as a programming organizer for ComSciCon Flagship 2020.
