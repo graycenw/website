@@ -1,6 +1,6 @@
 ---
 title: Aditya Sood receives 2021 LCLS Young Investigator Award for work at intersection of materials science and ultrafast physics
-summary: The early career award honors Sood for his research and leadership using the LCLS user facility at SLAC National Accelerator Laboratory.
+summary: SLAC National Accelerator Laboratory | October 14, 2021
 tags:
 - writing
 - SLAC
