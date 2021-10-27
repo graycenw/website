@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Graycen Wheeler, PhD
+title: Graycen Wheeler
 
 # Is this the primary user of the site?
 superuser: true
