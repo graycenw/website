@@ -1,5 +1,5 @@
 ---
-title: ThanksScience for parade floats!
+title: "#ThanksScience for parade floats!"
 summary: Science Buffs | November 21, 2018
 tags:
 - writing
