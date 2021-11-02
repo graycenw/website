@@ -5,7 +5,7 @@ name = "my_fonts"
 google_fonts = "family=Abril:wght@400;700&family=Roboto+Mono&family=Roboto:wght@100;300"
 
 # Font families
-heading_font = "Abril"
+heading_font = "Abril Fatface"
 body_font = "Roboto"
-nav_font = "Abril"
+nav_font = "Abril Fatface"
 mono_font = "Roboto Mono"
