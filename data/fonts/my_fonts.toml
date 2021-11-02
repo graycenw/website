@@ -5,7 +5,7 @@ name = "my_fonts"
 google_fonts = "family=Playfair+Display:wght@400;700&family=Roboto+Mono&family=Roboto:wght@100;300"
 
 # Font families
-heading_font = "Roboto"
-body_font = "Playfair Display"
+heading_font = "Playfair Display"
+body_font = "Roboto"
 nav_font = "Playfair Display"
 mono_font = "Roboto Mono"
