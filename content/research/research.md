@@ -1,5 +1,5 @@
 ---
-title: publication
+title: Research
 cms_exclude: true
 
 content:
