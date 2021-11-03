@@ -1,5 +1,5 @@
 ---
-title: "Thesis defense: TACE-mediated cell motility and CLPTM1L-related drug resistance"
+title: "Thesis defense: How cells make decisions"
 summary: University of Colorado Boulder Department of Biochemistry | April 2, 2021
 tags:
 - talks
