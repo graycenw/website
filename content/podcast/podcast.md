@@ -14,7 +14,7 @@ subtitle: ""
 
 content:
   # Page type to display. E.g. project.
-  page_type: pcast
+  page_type: project
   filters:
     exclude_featured: true
   
