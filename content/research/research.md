@@ -1,6 +1,10 @@
 ---
-title: Publications
+title: Research
 cms_exclude: true
+
+content:
+  # Page type to display. E.g. project.
+  page_type: pcast
 
 # View.
 #   1 = List
