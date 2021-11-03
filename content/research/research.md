@@ -4,7 +4,7 @@ cms_exclude: true
 
 content:
   # Page type to display. E.g. project.
-  page_type: pcast
+  page_type: publication
 
 # View.
 #   1 = List
