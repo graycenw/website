@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: research
+widget: Research
 
 # This file represents a page section.
 headless: true
@@ -20,5 +20,12 @@ content:
   
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
+
+  # View.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation
+  view: 3
 
 ---
