@@ -1,5 +1,6 @@
 ---
-title: Research
+title: ""
+weight: 100
 cms_exclude: true
 
 # View.
