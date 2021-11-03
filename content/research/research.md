@@ -21,6 +21,7 @@ content:
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
 
+cms_exclude: true
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -31,7 +32,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Showcase
-  view: 1
+  view: 4
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
