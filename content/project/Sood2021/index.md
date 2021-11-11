@@ -5,7 +5,7 @@ tags:
 - writing
 - SLAC
 - scientist profiles
-- UCSC
+- UCSC SciCom
 date: "2021-10-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
