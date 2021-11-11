@@ -3,7 +3,7 @@ title: Rental housing market squeezed by pandemic, wildfire in Santa Cruz County
 summary: Santa Cruz Local | October 22, 2021
 tags:
 - writing
-- UCSC
+- UCSC SciCom
 - Santa Cruz Local
 - housing
 date: "2021-10-22T00:00:00Z"
