@@ -1,5 +1,5 @@
 ---
-title: Native Super Trees Could Provide Climate Solutions to Houston
+title: Native super trees could provide climate solutions to Houston
 summary: Eos | December 15, 2021
 tags:
 - writing
