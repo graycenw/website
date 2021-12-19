@@ -31,7 +31,7 @@ tags:
 title: Protocol for analysis and consolidation of TrackMate outputs for measuring two-dimensional cell motility using nuclear tracking
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "uploads/Wheeler2021.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
