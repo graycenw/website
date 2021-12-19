@@ -52,7 +52,7 @@ tags:
 title: Genome-wide binding analysis of 195 DNA binding proteins reveals “reservoir” promoters and human specific SVA-repeat family regulation
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "uploads/Smallegan2021.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
