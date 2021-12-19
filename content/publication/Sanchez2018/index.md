@@ -36,7 +36,7 @@ tags:
 title: Genome-wide dose-dependent inhibition of histone deacetylases studies reveal their roles in enhancer remodeling and suppression of oncogenic super-enhancers
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "uploads/Sanchez2018.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
