@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Accepted at *Journal of Visualized Experiments*'
+publication: '*Journal of Visualized Experiments*'
 publication_short: ""
 publication_types:
 - "2"
