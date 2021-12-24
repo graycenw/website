@@ -5,7 +5,7 @@ summary: "Resources for supporting racial justice, science podcasts by Black pod
 tags:
 - podcasting
 - science news
-- sea creatures
+- social science
 
 date: "2020-06-05T00:00:00Z"
 
