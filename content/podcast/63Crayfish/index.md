@@ -7,7 +7,7 @@ featured: false
   #focal_point: ""
   #preview_only: false
 projects: []
-publication: '*Molecular Biology of the Cell,* 32(4): 311-361'
+publication: ""
 publication_short: ""
 publication_types:
 - "2"
