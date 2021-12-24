@@ -6,8 +6,7 @@ title: Buffs Talk Science
 superuser: true
 
 # Role/position
-role: Science journalist (M.S. '22) | Biochemist (Ph.D. '21)
-# role: Science journalist | UCSC SciCom master's student
+role: A podcast about science from CU Boulder and beyond hosted by Graycen Wheeler and Alison Gilchrist from 2018 - 2020.
 
 # Organizations/Affiliations
 organizations:
