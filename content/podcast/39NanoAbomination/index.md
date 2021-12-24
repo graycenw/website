@@ -1,6 +1,6 @@
 ---
 title: "39: Nano abomination"
-summary: "The Blob, bird song inception, and rats on wheels. Interview with chemist Kristina Vrouwenvelder"
+summary: "The Blob, bird song inception, and rats on wheels. Interview with chemist Kristina Vrouwenvelder."
   
 tags:
 - podcasting
