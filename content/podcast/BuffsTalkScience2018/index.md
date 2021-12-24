@@ -1,16 +1,19 @@
 ---
-title: Buffs Talk Science
-summary: A podcast about science from CU Boulder and beyond hosted by Graycen Wheeler and Alison Gilchrist from 2018 - 2020.
+title: 65: Here's something about Thanksgiving
+summary: Graycen and Alison talk about some Thanksgiving-themed stories featuring seed banks, rats, football, and a Thanksgiving NASA disaster.
   
 tags:
 - podcasting
 - science news
-- bees
-date: "2020-12-11T00:00:00Z"
+- seeds
+- rats
+- space
+- holiday cheer
+date: "2020-11-26T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://buffstalkscience.com/
+external_link: https://buffstalkscience.com/2020/11/26/episode-65-heres-something-about-thanksgiving/
 
 
 
