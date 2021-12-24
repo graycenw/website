@@ -16,7 +16,6 @@ content:
   # Automatically link email and phone or display as text?
   autolink: false
   
-social:
 - icon: podcast
   icon_pack: fas
   link: https://podcasts.apple.com/us/podcast/buffs-talk-science/id1375850300
