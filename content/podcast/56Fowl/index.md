@@ -11,7 +11,7 @@ date: "2020-07-17T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
-link: https://buffstalkscience.com/2020/07/17/episode-56-the-fowl-ward/
+external_link: https://buffstalkscience.com/2020/07/17/episode-56-the-fowl-ward/
 
 image:
   caption: ""
