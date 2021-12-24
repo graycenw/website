@@ -10,6 +10,14 @@ date: "2020-12-11T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: https://buffstalkscience.com/
 
+social:
+- icon: podcast
+  icon_pack: fas
+  link: https://podcasts.apple.com/us/podcast/buffs-talk-science/id1375850300
+- icon: soundcloud
+  icon_pack: fab
+  link: https://soundcloud.com/user-352570525?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
 image:
   caption: ""
   focal_point: Smart
