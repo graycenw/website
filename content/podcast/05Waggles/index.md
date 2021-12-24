@@ -5,7 +5,8 @@ summary: "The marshmallow test, fairy circles, music and smart bees. Interview w
 tags:
 - podcasting
 - science news
-- bugs
+- bees
+- microbes
 
 date: "2018-06-20T00:00:00Z"
 
