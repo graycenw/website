@@ -16,7 +16,7 @@ social:
   icon_pack: fab
   link: https://soundcloud.com/user-352570525?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 - icon: spotify
-  icon_pack:fab
+  icon_pack: fab
   link: https://open.spotify.com/show/0r4dQGI8MxYrNn2QCF1vdj
 
 # Optional external URL for project (replaces project detail page).
