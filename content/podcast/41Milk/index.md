@@ -1,10 +1,11 @@
 ---
-title: "42: I'll drink any milk"
+title: "41: I'll drink any milk"
 summary: "A science fight and picky eating. Interview with information scientist Jess Smith."
   
 tags:
 - podcasting
 - science news
+- AI
 
 date: "2019-11-21T00:00:00Z"
 
