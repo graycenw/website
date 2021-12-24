@@ -1,5 +1,5 @@
 ---
-title: "16: Something something temperature regulation"
+title: "16: I went to South America and all I got was this dumb sweet potato"
 summary: "Turkey snoods, child-eating birds, sweet potatoes and more. Amanda Grennell is a bonus host."
   
 tags:
