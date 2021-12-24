@@ -18,16 +18,3 @@ image:
   caption: ""
   focal_point: Smart
 ---
-
----
-social:
-- icon: podcast
-  icon_pack: fas
-  link: https://podcasts.apple.com/us/podcast/buffs-talk-science/id1375850300
-- icon: soundcloud
-  icon_pack: fab
-  link: https://soundcloud.com/user-352570525?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-- icon: spotify
-  icon_pack: fab
-  link: https://open.spotify.com/show/0r4dQGI8MxYrNn2QCF1vdj
----
