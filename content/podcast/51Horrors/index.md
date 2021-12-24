@@ -5,8 +5,7 @@ summary: "Corals, mosquitos, constipated lizards and shy eels."
 tags:
 - podcasting
 - science news
-- art
-- chins
+- sea creatures
 
 date: "2020-05-07T00:00:00Z"
 
