@@ -1,5 +1,5 @@
 ---
-title: "64: Lair on a Log"
+title: "64: Little lair on a log"
 summary: "Window-like wood, moth-like glass, human compost and baby beetles."
   
 tags:
