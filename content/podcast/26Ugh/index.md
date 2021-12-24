@@ -1,5 +1,5 @@
 ---
-title: "27: A cat called Ugh"
+title: "26: A cat called Ugh"
 summary: "Cats who know their names, mosquitos who don’t like Skrillex and fungi that don’t respond to drugs. Interview with author Beth Gardiner."
   
 tags:
