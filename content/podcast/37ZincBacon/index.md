@@ -1,6 +1,6 @@
 ---
 title: "37: Zinc-fortified bacon"
-summary: "information transfer, bacteria-cow hybrids and the effects of mouthwash on our blood pressure. Interview with biochemist Kelsie Anson."
+summary: "Information transfer, bacteria-cow hybrids and the effects of mouthwash on our blood pressure. Interview with biochemist Kelsie Anson."
   
 tags:
 - podcasting
