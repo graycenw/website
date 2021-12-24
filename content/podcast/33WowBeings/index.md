@@ -5,7 +5,8 @@ summary: "Toxoplasma in mice, ticks in the United States, and energy drinks in t
 tags:
 - podcasting
 - science news
-- cats
+- bugs
+- microbes
 
 date: "2019-07-24T00:00:00Z"
 
