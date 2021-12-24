@@ -1,6 +1,6 @@
 ---
 title: "7: An accidental bug theme"
-summary: "piders, butterflies, kissing bugs and the powerhouse of the cell. Interview with chemical enginees Tom Aunins and biochemist Dilara Batan."
+summary: "Spiders, butterflies, kissing bugs and the powerhouse of the cell. Interview with chemical enginees Tom Aunins and biochemist Dilara Batan."
   
 tags:
 - podcasting
