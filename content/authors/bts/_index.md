@@ -21,6 +21,8 @@ bio: A podcast about science from CU Boulder and beyond hosted by Graycen Wheele
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: info-circle
+- link: https://buffstalkscience.com/
 - icon: podcast
   icon_pack: fas
   link: https://podcasts.apple.com/us/podcast/buffs-talk-science/id1375850300
