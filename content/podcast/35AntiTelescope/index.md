@@ -1,6 +1,6 @@
 ---
 title: "35: No one is anti-telescope"
-summary: "Ancient bread, large telescopes and an infuriating paper on endometriosis. Interview with chemical engineer Max Levy"
+summary: "Ancient bread, large telescopes and an infuriating paper on endometriosis. Interview with chemical engineer Max Levy."
   
 tags:
 - podcasting
