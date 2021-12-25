@@ -1,11 +1,12 @@
 ---
-title: "42: Still really into skeletons"
+title: "40: Still really into skeletons"
 summary: "Starcraft 2, AI handwriting, early career failure and nonradioactive metals."
   
 tags:
 - podcasting
 - science news
 - AI
+- bones
 
 date: "2019-11-07T00:00:00Z"
 
