@@ -1,5 +1,5 @@
 ---
-title: The truth behind pseudoscience: Cryptozoology
+title: "The truth behind pseudoscience: Cryptozoology"
 summary: Good Times | January 5, 2022
 tags:
 - writing
