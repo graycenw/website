@@ -1,5 +1,5 @@
 ---
-title: "Day in the Life: Hydrologist Grace Guryan"
+title: "Day in the Life: Hydrogeologist Grace Guryan"
 summary: Science Buffs | July 2, 2018
 tags:
 - writing
