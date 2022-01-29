@@ -14,4 +14,6 @@ external_link: https://www.santacruzsentinel.com/2022/01/28/pismo-clams-make-a-m
 image:
   caption: "Stephanie Secrest for the Bay Area News Group"
   focal_point: Smart
+  
+url_pdf: "uploads/20220129_SantaCruzSentinelClams.pdf"
 ---
