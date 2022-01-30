@@ -5,7 +5,7 @@ tags:
 - writing
 - UCSC SciCom
 - creatures
-- Santa Cruz Sentinel
+- San Jose Mercury News
 date: "2022-01-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
