@@ -15,5 +15,5 @@ image:
   caption: "Stephanie Secrest for the Bay Area News Group"
   focal_point: Smart
   
-url_pdf: "uploads/20220129_SantaCruzSentinelClams.pdf"
+url_pdf: "uploads/20220204_SanJoseMerc_Clams.pdf"
 ---
