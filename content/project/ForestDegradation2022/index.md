@@ -12,6 +12,6 @@ date: "2022-02-09T00:00:00Z"
 external_link: https://news.mongabay.com/2022/02/amazon-losing-far-more-carbon-from-forest-degradation-than-deforestation-study/
 
 image:
-  caption: "Yuanwei Qin and Xiangming Xiao"
+  caption: "Rhett Butler/ Mongabay"
   focal_point: Smart
 ---
