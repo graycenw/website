@@ -1,4 +1,6 @@
-# Academic Pages Template for [Hugo](https://github.com/gohugoio/hugo)
+# Academic Pages Template for [Hugo](https://github.com/gohugoio/hugo).
+
+[Site deploys here.](https://graycenwheeler.com/)
 
 ### Exclusive to [Sponsors](https://wowchemy.com/sponsors/): ❤️ Thanks for your support ❤️
 
