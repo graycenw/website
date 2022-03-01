@@ -13,6 +13,6 @@ date: "2022-02-23T00:00:00Z"
 external_link: https://www.science.org/content/article/archerfish-can-distinguish-animals-nonanimals-even-if-they-ve-never-seen-them
 
 image:
-  caption: "LETÍCIA SMANIA DONANZAN/FLICKR/(CC BY 2.0)"
+  caption: "I, Chrumps, CC BY-SA 3.0"
   focal_point: Smart
 ---
