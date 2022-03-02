@@ -13,6 +13,6 @@ date: "2022-03-02T00:00:00Z"
 external_link: https://www.science.org/content/article/coronavirus-may-be-evolving-deer
 
 image:
-  caption: "ILEXX/ISTOCKPHOTO"
+  caption: "HENRY/WIKIMEDIA COMMONS"
   focal_point: Smart
 ---
