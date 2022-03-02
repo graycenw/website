@@ -1,4 +1,3 @@
-
 ---
 title: "Pollinators like their flowers with a dash of salt"
 summary: Science | March 1, 2022
