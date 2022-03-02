@@ -1,5 +1,5 @@
 ---
-title: "How mosquitoes avoid pesticides designed to kill them"
+title: "Sifter: How mosquitoes avoid pesticides designed to kill them"
 summary: Science | February 23, 2022
 tags:
 - writing
