@@ -1,5 +1,5 @@
 ---
-title: "Viruses may play an unexplored role in the gut-brain axis"
+title: "Sifter: Viruses may play an unexplored role in the gut-brain axis"
 summary: Science | February 20, 2022
 tags:
 - writing
