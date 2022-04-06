@@ -1,5 +1,5 @@
 ---
-title: Monterey: Warm weather is on its way
+title: "Monterey: Warm weather is on its way"
 summary: Monterey Herald | April 4, 2022
 tags:
 - writing
