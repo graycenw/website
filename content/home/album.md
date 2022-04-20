@@ -1,1 +1,0 @@
-{{< gallery album="outlets" >}}
