@@ -1,3 +1,5 @@
+{{< gallery album="<ALBUM-FOLDER>" >}}
+
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
