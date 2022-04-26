@@ -6,7 +6,7 @@ tags:
 - UCSC SciCom
 - art
 - Monterey Herald
-date: "2022-04-05T00:00:00Z"
+date: "2022-04-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/
