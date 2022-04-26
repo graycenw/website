@@ -12,6 +12,6 @@ date: "2022-04-25T00:00:00Z"
 external_link: https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/
 
 image:
-  caption: "Brian Phan"
+  caption: "Monterey Bay Aquarium"
   focal_point: Smart
 ---
