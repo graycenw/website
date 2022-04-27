@@ -12,5 +12,4 @@ design:
   columns: '3'
 ---
 
-\
 # Published Work
