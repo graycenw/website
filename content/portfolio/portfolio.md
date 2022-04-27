@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
 title: "Published Writing"
-subtitle: "Listed by date"
+subtitle: ""
 design:
   columns: '1'
 ---
