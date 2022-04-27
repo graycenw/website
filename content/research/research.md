@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 title: "Scientific Publications"
-subtitle: "Listed by date"
+subtitle: ""
 
 content:
   # Page type to display. E.g. project.
