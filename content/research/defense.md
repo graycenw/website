@@ -6,8 +6,8 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 15  # Order that this section will appear.
-title: "Dissertation defense: How cells make decisions"
-subtitle: "April 2, 2021"
+title: "Dissertation Defense"
+subtitle: ""
 design:
   columns: '1'
 ---
