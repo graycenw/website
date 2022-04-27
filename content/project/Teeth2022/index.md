@@ -15,5 +15,5 @@ image:
   caption: "Jgorynvd/Istock"
   focal_point: Smart
   
-url_pdf: "20220203_Science_Enamel.pdf"
+url_pdf: "uploads/20220203_Science_Enamel.pdf"
 ---
