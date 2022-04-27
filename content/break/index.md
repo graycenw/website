@@ -9,7 +9,7 @@ summary: ""
 external_link: ""
 
 image:
-  caption: "J"
+  caption: ""
   focal_point: Smart
   
 url_pdf: ""
