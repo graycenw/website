@@ -12,7 +12,6 @@ design:
   columns: '3'
 ---
 
-\
 ## 2022
 [Monterey Bay Aquarium shares a treasure trove of data about young white sharks](https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/) (Monterey Herald) \
 [Ocean Arts Festival uses art and science to celebrate the sea](https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/) (Monterey Herald) \
