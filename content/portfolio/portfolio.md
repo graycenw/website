@@ -12,7 +12,7 @@ design:
   columns: '1'
 ---
 
-## 2022
+**2022**
 - [Monterey Bay Aquarium shares a treasure trove of data about young white sharks](https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/) (Monterey Herald)
 - [Ocean Arts Festival uses art and science to celebrate the sea](https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/) (Monterey Herald)
 - [Protecting Monterey’s baby hummingbirds](https://www.montereyherald.com/2022/04/05/protecting-montereys-baby-hummingbirds/) (Monterey Herald)
@@ -33,7 +33,7 @@ design:
 - [Mother jaguars may flirt to save their cubs’ lives](https://www.science.org/content/article/mother-jaguars-may-flirt-save-their-cubs-lives) (Science)
 - [The truth behind pseudoscience: Cryptozoology](https://goodtimes.sc/cover-stories/pseudoscience/) (Good Times, Silicon Valley Metro)
 
-## 2021
+**2021**
 - [Native trees could provide climate solutions to Houston](https://eos.org/articles/native-super-trees-could-provide-climate-solutions-to-houston) (Eos)
 - [Geneticists have identified new groups of tiger sharks to protect](https://news.mongabay.com/2021/11/geneticists-have-identified-new-groups-of-tiger-sharks-to-protect/) (Mongabay)
 - [Catherine Heymans shines as Astronomer Royal for Scotland](https://www.symmetrymagazine.org/article/catherine-heymans-shines-as-astronomer-royal-for-scotland) (Symmetry Magazine)
@@ -41,13 +41,13 @@ design:
 - [Rental housing market squeezed by pandemic, wildfire in Santa Cruz County)](https://santacruzlocal.org/2021/10/22/rental-housing-market-squeezed-by-pandemic-wildfire-in-santa-cruz-county/) (Santa Cruz Local)
 - [Aditya Sood receives 2021 LCLS Young Investigator Award for work at intersection of materials science and ultrafast physics](https://www6.slac.stanford.edu/news/2021-10-14-aditya-sood-receives-2021-lcls-young-investigator-award) (SLAC National Accelerator Laboratory)
 
-## 2019
+**2019**
 - [Why you should be a fan of Orit Peleg’s model for beehive ventilation](https://sciencebuffs.org/2019/04/02/why-you-should-be-a-big-fan-of-orit-pelegs-model-for-beehive-ventilation/) (Science Buffs) 
 
-## 2018
+**2018**
 - [#ThanksScience for parade floats](https://sciencebuffs.org/2018/11/21/thanksgiving-thanksscience-thanks-for-parade-floats/) (Science Buffs)
 - [Day in the life: Hydrogeologist Grace Guryan](https://sciencebuffs.org/2018/07/02/day-in-the-life-grace-guryan/) (Science Buffs)
 
-## 2017
+**2017**
 - [Ten-hundred word challenge: The little circle a doctor gives you vs. the bad block](https://sciencebuffs.org/2017/12/07/ten-hundred-word-challenge-part-6/) (Science Buffs)
 - [Graduate student snapshot: Zac Holmes](https://sciencebuffs.org/2017/11/21/graduate-student-snapshot-zac-holmes/) (Science Buffs)
