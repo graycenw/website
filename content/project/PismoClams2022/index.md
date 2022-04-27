@@ -1,5 +1,5 @@
 ---
-title: Dig this: Iconic clams make a comeback at Pismo Beach
+title: "Dig this: Iconic clams make a comeback at Pismo Beach"
 summary: San Jose Mercury News | January 30, 2022
 tags:
 - writing
