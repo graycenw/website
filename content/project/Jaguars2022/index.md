@@ -15,5 +15,5 @@ image:
   caption: "Jorge Barragan"
   focal_point: Smart
   
-url_pdf: "uploads//Users/20220124_Science_JaguarFlirt.pdf"
+url_pdf: "uploads/20220124_Science_JaguarFlirt.pdf"
 ---
