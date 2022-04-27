@@ -9,5 +9,5 @@ weight: 15  # Order that this section will appear.
 title: "Published Work"
 subtitle: "Listed by date"
 design:
-  columns: '3'
+  columns: '1'
 ---
