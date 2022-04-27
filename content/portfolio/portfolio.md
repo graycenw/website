@@ -11,27 +11,27 @@ subtitle: ""
 design:
   columns: '1'
 ---
-
-# 2022
-[Monterey Bay Aquarium shares a treasure trove of data about young white sharks](https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/) (Monterey Herald) \
-[Ocean Arts Festival uses art and science to celebrate the sea](https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/) (Monterey Herald) \
-[Protecting Monterey’s baby hummingbirds](https://www.montereyherald.com/2022/04/05/protecting-montereys-baby-hummingbirds/) (Monterey Herald) \
-[Monterey: Warm weather is on its way](https://www.montereyherald.com/2022/04/04/monterey-warm-weather-is-on-its-way/) (Monterey Herald) \
-[How to get rent assistance in Santa Cruz County](https://santacruzlocal.org/rent-help/) (Santa Cruz Local) \
-[These spiders hunt in packs. Watch how they do it](https://www.science.org/content/article/these-spiders-hunt-packs-watch-how-they-do-it) (Science) \
-[Sifter: Coronavirus may be evolving in deer](https://www.science.org/content/article/coronavirus-may-be-evolving-deer) (Science) \
-[Pollinators like their flowers with a dash of salt](https://www.science.org/content/article/pollinators-their-flowers-dash-salt) (Science) \
-[Archerfish can distinguish non-animals from animals—even if they’ve never seen them before](https://www.science.org/content/article/archerfish-can-distinguish-animals-nonanimals-even-if-they-ve-never-seen-them) (Science) \
-[Sifter: How mosquitoes avoid pesticides designed to kill them](https://www.science.org/content/article/how-mosquitoes-avoid-pesticides-designed-kill-them) (Science) \
-[Sifter: Viruses may play an unexplored role in the gut-brain axis](https://www.science.org/content/article/viruses-may-play-unexplored-role-gut-brain-axis) (Science) \
-[What is annihilation?](https://www.symmetrymagazine.org/article/what-is-annihilation) (Symmetry Magazine) \
-[Amazon losing far more carbon from forest degradation than deforestation](https://news.mongabay.com/2022/02/amazon-losing-far-more-carbon-from-forest-degradation-than-deforestation-study/) (Mongabay) \
-[New artificial enamel is harder and more durable than the real thing](https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing) (Science) \
-[A day in the life of two accelerator experts](https://www6.slac.stanford.edu/news/2022-02-02-day-life-two-accelerator-experts.aspx) (SLAC National Accelerator Laboratory, Stanford Report) \
-[Dig this: Iconic clams make a comeback at Pismo Beach](https://graycenwheeler.com/uploads/20220204_SanJoseMerc_Clams.pdf) (San Jose Mercury News, Monterey Herald, Santa Cruz Sentinel, East Bay Times) \
-[How do squirrels bulk up while hibernating?](https://www.science.org/content/article/how-do-squirrels-bulk-while-hibernating) (Science) \
-[Mother jaguars may flirt to save their cubs’ lives](https://www.science.org/content/article/mother-jaguars-may-flirt-save-their-cubs-lives) (Science) \
-[The truth behind pseudoscience: Cryptozoology](https://goodtimes.sc/cover-stories/pseudoscience/) (Good Times, Silicon Valley Metro)
+\
+**2022**
+- [Monterey Bay Aquarium shares a treasure trove of data about young white sharks](https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/) (Monterey Herald) \
+- [Ocean Arts Festival uses art and science to celebrate the sea](https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/) (Monterey Herald) \
+- [Protecting Monterey’s baby hummingbirds](https://www.montereyherald.com/2022/04/05/protecting-montereys-baby-hummingbirds/) (Monterey Herald) \
+- [Monterey: Warm weather is on its way](https://www.montereyherald.com/2022/04/04/monterey-warm-weather-is-on-its-way/) (Monterey Herald) \
+- [How to get rent assistance in Santa Cruz County](https://santacruzlocal.org/rent-help/) (Santa Cruz Local) \
+- [These spiders hunt in packs. Watch how they do it](https://www.science.org/content/article/these-spiders-hunt-packs-watch-how-they-do-it) (Science) \
+- [Sifter: Coronavirus may be evolving in deer](https://www.science.org/content/article/coronavirus-may-be-evolving-deer) (Science) \
+- [Pollinators like their flowers with a dash of salt](https://www.science.org/content/article/pollinators-their-flowers-dash-salt) (Science) \
+- [Archerfish can distinguish non-animals from animals—even if they’ve never seen them before](https://www.science.org/content/article/archerfish-can-distinguish-animals-nonanimals-even-if-they-ve-never-seen-them) (Science) \
+- [Sifter: How mosquitoes avoid pesticides designed to kill them](https://www.science.org/content/article/how-mosquitoes-avoid-pesticides-designed-kill-them) (Science) \
+- [Sifter: Viruses may play an unexplored role in the gut-brain axis](https://www.science.org/content/article/viruses-may-play-unexplored-role-gut-brain-axis) (Science) \
+- [What is annihilation?](https://www.symmetrymagazine.org/article/what-is-annihilation) (Symmetry Magazine) \
+- [Amazon losing far more carbon from forest degradation than deforestation](https://news.mongabay.com/2022/02/amazon-losing-far-more-carbon-from-forest-degradation-than-deforestation-study/) (Mongabay) \
+- [New artificial enamel is harder and more durable than the real thing](https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing) (Science) \
+- [A day in the life of two accelerator experts](https://www6.slac.stanford.edu/news/2022-02-02-day-life-two-accelerator-experts.aspx) (SLAC National Accelerator Laboratory, Stanford Report) \
+- [Dig this: Iconic clams make a comeback at Pismo Beach](https://graycenwheeler.com/uploads/20220204_SanJoseMerc_Clams.pdf) (San Jose Mercury News, Monterey Herald, Santa Cruz Sentinel, East Bay Times) \
+- [How do squirrels bulk up while hibernating?](https://www.science.org/content/article/how-do-squirrels-bulk-while-hibernating) (Science) \
+- [Mother jaguars may flirt to save their cubs’ lives](https://www.science.org/content/article/mother-jaguars-may-flirt-save-their-cubs-lives) (Science) \
+- [The truth behind pseudoscience: Cryptozoology](https://goodtimes.sc/cover-stories/pseudoscience/) (Good Times, Silicon Valley Metro)
 
 # 2021
 [Native trees could provide climate solutions to Houston](https://eos.org/articles/native-super-trees-could-provide-climate-solutions-to-houston) (Eos) \
