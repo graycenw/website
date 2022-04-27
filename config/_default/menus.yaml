@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Writing
+  - name: ''
     url: '/'
     weight: 10
   - name: Portfolio
     url: 'portfolio'
     weight: 15
-  - name: Podcasting
+  - name: Podcast
     url: '/podcasting'
     weight: 20
   - name: Talks
