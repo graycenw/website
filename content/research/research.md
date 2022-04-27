@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: 
-subtitle: ""
+title: "Scientific Publications"
+subtitle: "Listed by date"
 
 content:
   # Page type to display. E.g. project.
