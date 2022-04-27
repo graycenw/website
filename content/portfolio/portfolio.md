@@ -47,7 +47,7 @@ design:
 - [Why you should be a fan of Orit Peleg’s model for beehive ventilation](https://sciencebuffs.org/2019/04/02/why-you-should-be-a-big-fan-of-orit-pelegs-model-for-beehive-ventilation/) (Science Buffs) 
 
 ## 2018
-- [Thanks, science, for parade floats](https://sciencebuffs.org/2018/11/21/thanksgiving-thanksscience-thanks-for-parade-floats/) (Science Buffs)
+- [#Thanksscience for parade floats](https://sciencebuffs.org/2018/11/21/thanksgiving-thanksscience-thanks-for-parade-floats/) (Science Buffs)
 - [Day in the life: Hydrogeologist Grace Guryan](https://sciencebuffs.org/2018/07/02/day-in-the-life-grace-guryan/) (Science Buffs)
 
 ## 2017
