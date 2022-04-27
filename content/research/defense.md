@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 15  # Order that this section will appear.
-title: ""
+title: "Dissertation Defense"
 subtitle: ""
 design:
   columns: '1'
