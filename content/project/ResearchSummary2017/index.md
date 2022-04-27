@@ -1,5 +1,5 @@
 ---
-title: Ten-hundred word challenge: The little circle a doctor gives you vs. the bad block
+title: "Ten-hundred word challenge: The little circle a doctor gives you vs. the bad block"
 summary: Science Buffs | December 7, 2017
 tags:
 - writing
