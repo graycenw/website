@@ -14,4 +14,6 @@ external_link: https://www.science.org/content/article/new-artificial-enamel-har
 image:
   caption: "Jgorynvd/Istock"
   focal_point: Smart
+  
+url_pdf: "20220203_Science_Enamel.pdf"
 ---
