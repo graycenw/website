@@ -9,7 +9,7 @@ weight: 20  # Order that this section will appear.
 title: "Howdy"
 subtitle: ""
 design:
-  columns: '3'
+  columns: '1'
 ---
 
 \
