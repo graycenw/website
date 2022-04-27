@@ -16,5 +16,5 @@ image:
   caption: "JOHN CANCALOSI/MINDEN PICTURES"
   focal_point: Smart
   
-url_pdf: "20220301_Science_BeeSalt.pdf"
+url_pdf: "uploads/20220301_Science_BeeSalt.pdf"
 ---
