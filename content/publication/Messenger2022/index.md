@@ -20,13 +20,13 @@ publication_types:
 - "2"
 publishDate: "2022-04-29T00:00:00Z"
 slides: ""
-summary: Perturbation of adherens junctions elevates autocrine TGF-α signaling via membrane-bound protease TACE, which sustains elevated proliferation and motility in keratinocytes.
+summary: Our applied math collaborators use my motility data to help them understand how and why cells move in populations with more than one cell type.
 tags:
 - quantitative biology
 - applied math
 - doctoral work
 - cellular motility
-title: Suppression of alpha-catenin and adherens junctions enhances epithelial cell proliferation and motility via TACE-mediated TGF-alpha autocrine/paracrine signaling
+title: Learning anisotropic interaction rules from individual trajectories in a heterogeneous cellular population
 url_code: ""
 url_dataset: ""
 url_pdf: "uploads/Messenger2022.pdf"
