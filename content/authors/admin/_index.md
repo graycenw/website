@@ -6,7 +6,7 @@ title: Graycen Wheeler
 superuser: true
 
 # Role/position
-role: Science journalist (M.S. '22) | Biochemist (Ph.D. '21)
+role: Journalist (M.S. '22) | Biochemist (Ph.D. '21)
 # role: Science journalist | UCSC SciCom master's student
 
 # Organizations/Affiliations
