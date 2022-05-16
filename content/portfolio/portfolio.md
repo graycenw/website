@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Home construction goals set to quadruple in Santa Cruz County](https://santacruzlocal.org/2022/05/13/home-construction-goals-set-to-to-quadruple-in-santa-cruz-county/) (Santa Cruz Local)
 - [Monterey Bay Aquarium shares a treasure trove of data about young white sharks](https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/) (Monterey Herald)
 - [Ocean Arts Festival uses art and science to celebrate the sea](https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/) (Monterey Herald)
 - [Protecting Monterey’s baby hummingbirds](https://www.montereyherald.com/2022/04/05/protecting-montereys-baby-hummingbirds/) (Monterey Herald)
