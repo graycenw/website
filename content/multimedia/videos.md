@@ -11,8 +11,6 @@ subtitle: ""
 design:
   columns: '1'
 ---
-
-\
 {{< youtube P2M1o2Tcn6M >}}
 
 \
