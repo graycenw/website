@@ -11,10 +11,8 @@ role: Journalist (M.S. '22) | Biochemist (Ph.D. '21)
 
 # Organizations/Affiliations
 organizations:
-- name: "Report for America"
-  url: "https://www.reportforamerica.org/about-us/"
-- name: "KOSU Radio"
-  url: "https://www.kosu.org/"
+- name: "Report for America corps member at KOSU Radio"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Graycen is a journalist, a biochemist, a tabletop RPG enthusiast and several other things.
