@@ -6,15 +6,15 @@ title: Graycen Wheeler
 superuser: true
 
 # Role/position
-role: Report for America corps member at KOSU Radio
-\
-Journalist (M.S. '22) | Biochemist (Ph.D. '21)
+role: Journalist (M.S. '22) | Biochemist (Ph.D. '21)
 # role: Science journalist | UCSC SciCom master's student
 
 # Organizations/Affiliations
 organizations:
-- name: ""
-  url: ""
+- name: "Report for America"
+  url: "https://www.reportforamerica.org/about-us/"
+- name: "KOSU Radio"
+  url: "https://www.kosu.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Graycen is a journalist, a biochemist, a tabletop RPG enthusiast and several other things.
