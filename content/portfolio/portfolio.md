@@ -13,7 +13,8 @@ design:
 ---
 
 ## 2022
-- [Energy storage in Moss Landing: A smoky challenge to a new chapter](https://www.montereyherald.com/2022/06/12/energy-storage-in-moss-landing-a-smoky-challenge-to-a-new-chapter/) (Monterey Herald)
+-  [Communities in southeast Oklahoma run out of water as they wait for repairs](https://www.kosu.org/energy-environment/2022-06-16/communities-in-southeast-oklahoma-run-out-of-water-as-they-wait-for-repairs) (KOSU Radio)
+-  [Energy storage in Moss Landing: A smoky challenge to a new chapter](https://www.montereyherald.com/2022/06/12/energy-storage-in-moss-landing-a-smoky-challenge-to-a-new-chapter/) (Monterey Herald)
 - [Center for Homeland Defense and Security celebrates 20th anniversary](https://www.montereyherald.com/2022/05/30/center-for-homeland-defense-and-security-celebrates-20th-anniversary/) (Monterey Herald)
 - [New underwater robots help researchers study the Monterey Bay and beyond](https://www.montereyherald.com/2022/05/28/new-underwater-robots-help-researchers-study-the-monterey-bay-and-beyond/) (Monterey Herald)
 - [Local residents measure air quality for Monterey Bay Air District’s wildfire monitoring network](https://www.montereyherald.com/2022/05/21/local-residents-measure-air-quality-for-monterey-bay-air-districts-wildfire-monitoring-network/) (Monterey Herald)
