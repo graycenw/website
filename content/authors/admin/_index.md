@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Graycen Wheeler
+title: Graycen Wheeler, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Water reporter | Report for America corps member
 
 # Organizations/Affiliations
 organizations:
-- name: "KOSU Radio, Oklahoma City"
+- name: "KOSU Radio | Oklahoma City, OK"
   url: "https://www.kosu.org/people/graycen-wheeler"
 
 # Short bio (displayed in user profile at end of posts)
