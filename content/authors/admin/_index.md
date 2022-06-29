@@ -6,7 +6,7 @@ title: Graycen Wheeler, Ph.D.
 superuser: true
 
 # Role/position
-role: Water reporter | Report for America corps member
+role: Water reporter | [Report for America](https://www.reportforamerica.org/) corps member
 
 # Organizations/Affiliations
 organizations:
