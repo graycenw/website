@@ -6,13 +6,12 @@ title: Graycen Wheeler
 superuser: true
 
 # Role/position
-role: Journalist (M.S. '22) | Biochemist (Ph.D. '21)
-# role: Science journalist | UCSC SciCom master's student
+role: Water reporter | Report for America corps member
 
 # Organizations/Affiliations
 organizations:
-- name: "Report for America corps member at KOSU Radio"
-  url: ""
+- name: "KOSU Radio, Oklahoma City"
+  url: "https://www.kosu.org/people/graycen-wheeler"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Graycen is a journalist, a biochemist, a tabletop RPG enthusiast and several other things.
