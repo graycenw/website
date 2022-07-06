@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Free private well testing expands to three Oklahoma counties this summer, a dozen more in the fall](https://www.kosu.org/local-news/2022-07-06/free-private-well-testing-expands-to-three-oklahoma-counties-this-summer-a-dozen-more-in-the-fall) (KOSU Radio)
 - [Drummond wins Attorney General nod over Stitt-appointee O’Connor](https://www.kosu.org/oklahoma-primary-election-results-2022-live-updates) (KOSU Radio)
 - [Communities in southeast Oklahoma run out of water as they wait for repairs](https://www.kosu.org/energy-environment/2022-06-16/communities-in-southeast-oklahoma-run-out-of-water-as-they-wait-for-repairs) (KOSU Radio)
 - [Energy storage in Moss Landing: A smoky challenge to a new chapter](https://www.montereyherald.com/2022/06/12/energy-storage-in-moss-landing-a-smoky-challenge-to-a-new-chapter/) (Monterey Herald)
