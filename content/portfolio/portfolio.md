@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Norman asks city water users to conserve water](https://open.spotify.com/episode/5XhD2Sm59vUpY1pEyx8ZMW?si=55903ba089ae452f) (The KOSU Daily)
 - [Free private well testing expands to three Oklahoma counties this summer, a dozen more in the fall](https://www.kosu.org/local-news/2022-07-06/free-private-well-testing-expands-to-three-oklahoma-counties-this-summer-a-dozen-more-in-the-fall) (KOSU Radio)
 - [Drummond wins Attorney General nod over Stitt-appointee O’Connor](https://www.kosu.org/oklahoma-primary-election-results-2022-live-updates) (KOSU Radio)
 - [Communities in southeast Oklahoma run out of water as they wait for repairs](https://www.kosu.org/energy-environment/2022-06-16/communities-in-southeast-oklahoma-run-out-of-water-as-they-wait-for-repairs) (KOSU Radio)
