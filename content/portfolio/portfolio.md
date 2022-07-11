@@ -13,7 +13,7 @@ design:
 ---
 
 ## 2022
-- Grand River Dam Authority urges caution near toxic blue-green algal bloom: [Web post](https://www.kosu.org/local-news/2022-07-11/grand-river-dam-authority-urges-caution-near-toxic-blue-green-algal-bloom)) (KOSU Radio)
+- Grand River Dam Authority urges caution near toxic blue-green algal bloom: [Web post](https://www.kosu.org/local-news/2022-07-11/grand-river-dam-authority-urges-caution-near-toxic-blue-green-algal-bloom) (KOSU Radio)
 - Norman residents asked to conserve water following pump failure: [Web post](https://www.kosu.org/local-news/2022-07-08/norman-residents-asked-to-conserve-water-following-pump-failure) & [radio story](https://open.spotify.com/episode/5XhD2Sm59vUpY1pEyx8ZMW?si=55903ba089ae452f) (KOSU Radio)
 - [Free private well testing expands to three Oklahoma counties this summer, a dozen more in the fall](https://www.kosu.org/local-news/2022-07-06/free-private-well-testing-expands-to-three-oklahoma-counties-this-summer-a-dozen-more-in-the-fall) (KOSU Radio)
 - Drummond wins Attorney General nod over Stitt-appointee O’Connor: [Web post](https://www.kosu.org/oklahoma-primary-election-results-2022-live-updates) & [radio story](https://open.spotify.com/episode/5e27T1efncI2JIpdz7H4rM?si=0933a2352b964de7) (KOSU Radio)
