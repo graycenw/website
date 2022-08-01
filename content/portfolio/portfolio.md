@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- Strong attendance at Oklahoma's state parks despite heat, drought and water issues: [Web post](https://www.kosu.org/local-news/2022-08-01/strong-attendance-at-oklahomas-state-parks-despite-heat-drought-and-water-issues) & [radio story](https://open.spotify.com/episode/4t0YdDknhGeFyHXczx3WEZ?si=d023014a3b0246c4) (KOSU Radio)
 - [Rural Oklahoma water projects waiting for pandemic relief funds should have news by this fall](https://www.kosu.org/energy-environment/2022-07-25/rural-oklahoma-water-projects-waiting-for-pandemic-relief-funds-should-have-news-by-this-fall) (KOSU Radio)
 - Grand River Dam Authority urges caution near toxic blue-green algal bloom: [Web post](https://www.kosu.org/local-news/2022-07-11/grand-river-dam-authority-urges-caution-near-toxic-blue-green-algal-bloom) & [radio story](https://open.spotify.com/episode/1EXM7UFullDR1eg8WpeHa1?si=c849f0b4d9d6408a) (KOSU Radio)
 - Norman residents asked to conserve water following pump failure: [Web post](https://www.kosu.org/local-news/2022-07-08/norman-residents-asked-to-conserve-water-following-pump-failure) & [radio story](https://open.spotify.com/episode/5XhD2Sm59vUpY1pEyx8ZMW?si=55903ba089ae452f) (KOSU Radio)
