@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- Russ defeats Jolley in Republican runoff for State Treasurer: [Web post](https://www.kosu.org/oklahoma-runoff-election-results-2022) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-24/headlines-election-results-marijuana-and-gun-laws-blue-whale-comedy-festival) (KOSU Radio)
 - High manganese levels turned its water yellow, but Altus officials say it's still safe to drink: [Web post](https://www.kosu.org/energy-environment/2022-08-18/high-manganese-levels-turned-its-water-yellow-but-altus-officials-say-its-still-safe-to-drink) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-19/headlines-covid-19-latest-kevin-calvey-investigation-sooner-tailgating) (KOSU Radio)
 - Hot air balloons take flight over Oklahoma for FireLake Fireflight Balloon Festival's fifth year: [Web post](https://www.kosu.org/arts-culture/2022-08-12/hot-air-balloons-take-flight-over-oklahoma-for-firelake-fireflight-balloon-festivals-fifth-year) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-15/headlines-okc-school-bond-lake-hefner-water-fireflight-balloon-festval) (KOSU Radio)
 - Pipeline leaks thousands of gallons of crude oil into a creek in north central Oklahoma: [Web post](https://www.kosu.org/energy-environment/2022-08-10/pipeline-leaks-thousands-of-gallons-of-crude-oil-into-a-creek-in-north-central-oklahoma) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-10/headlines-norman-turnpike-expansion-critical-race-theory-remembering-clu-galager) (KOSU Radio)
