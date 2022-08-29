@@ -2,7 +2,6 @@
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
-# - Cherokee Nation, Indian Health Service invest nearly $12 million in water, sewer infrastructure: (https://app.grovecms.org/cms/content/edit.jsp?id=00000182-dba0-d0e3-a7b3-fbadc3fd0000&typeId=d78c02b4-68bd-37b1-b5e7-8c0825a8033e) & [radio story]() (KOSU Radio)
 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
@@ -14,6 +13,7 @@ design:
 ---
 
 ## 2022
+- Cherokee Nation, Indian Health Service invest nearly $12 million in water, sewer infrastructure: [Web post](https://app.grovecms.org/cms/content/edit.jsp?id=00000182-dba0-d0e3-a7b3-fbadc3fd0000&typeId=d78c02b4-68bd-37b1-b5e7-8c0825a8033e) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-29/headlines-rainy-day-funds-certified-teachers-animal-safety) (KOSU Radio)
 - Russ defeats Jolley in Republican runoff for State Treasurer: [Web post](https://www.kosu.org/oklahoma-runoff-election-results-2022) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-24/headlines-election-results-marijuana-and-gun-laws-blue-whale-comedy-festival) (KOSU Radio)
 - High manganese levels turned its water yellow, but Altus officials say it's still safe to drink: [Web post](https://www.kosu.org/energy-environment/2022-08-18/high-manganese-levels-turned-its-water-yellow-but-altus-officials-say-its-still-safe-to-drink) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-19/headlines-covid-19-latest-kevin-calvey-investigation-sooner-tailgating) (KOSU Radio)
 - Hot air balloons take flight over Oklahoma for FireLake Fireflight Balloon Festival's fifth year: [Web post](https://www.kosu.org/arts-culture/2022-08-12/hot-air-balloons-take-flight-over-oklahoma-for-firelake-fireflight-balloon-festivals-fifth-year) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-15/headlines-okc-school-bond-lake-hefner-water-fireflight-balloon-festval) (KOSU Radio)
