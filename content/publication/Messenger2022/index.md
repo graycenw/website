@@ -20,7 +20,7 @@ publication_types:
 - "2"
 publishDate: "2022-04-29T00:00:00Z"
 slides: ""
-summary: Our applied math collaborators use my motility data to help them understand how and why cells move in populations with more than one cell type.
+summary: Our applied math collaborators use my motility data to help them understand how and why cells move in populations with more than one cell type. In press at *Journal of the Royal Society Interface* as of Sep. 5, 2022, and available on *arXiv* in the meantime.
 tags:
 - quantitative biology
 - applied math
