@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- Officials recommend boiling water in areas around Lake Eufaula State Park and Checotah in rural eastern Oklahoma: [Web post](https://www.kosu.org/energy-environment/2022-09-02/officials-recommend-boiling-water-in-areas-around-lake-eufaula-state-park-and-checotah-in-rural-eastern-oklahoma) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-09-06/headlines-religion-and-republicans-tulsa-homelessness-and-state-film-office) (KOSU Radio)
 - Oklahoma Highway Patrol recovers sunken plane after crash that injured two: [Web post](https://www.kosu.org/local-news/2022-08-31/oklahoma-highway-patrol-recovers-sunken-plane-after-crash-that-injured-two) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-31/headlines-recreational-marijuana-norman-turnpike-protest-cowboy-football) (KOSU Radio)
 - Cherokee Nation, Indian Health Service invest nearly $12 million in water, sewer infrastructure: [Web post](https://www.kosu.org/energy-environment/2022-08-29/cherokee-nation-indian-health-service-invest-nearly-12-million-in-water-sewer-infrastructure) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-29/headlines-rainy-day-funds-certified-teachers-animal-safety) (KOSU Radio)
 - Russ defeats Jolley in Republican runoff for State Treasurer: [Web post](https://www.kosu.org/oklahoma-runoff-election-results-2022) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-24/headlines-election-results-marijuana-and-gun-laws-blue-whale-comedy-festival) (KOSU Radio)
