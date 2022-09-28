@@ -9,12 +9,12 @@ author_notes: ""
 authors:
 - admin
 date: "2021-04-02T00:00:00Z"
-doi: "https://www.proquest.com/openview/eab0df3c2079e03ea2050f7908ef43dc/1?pq-origsite=gscholar&cbl=18750&diss=y"
-featured: false
+doi: ""
+featured: true
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 projects: []
 publication: '*Doctoral dissertation, University of Colorado Boulder*'
 publication_short: ""
@@ -34,6 +34,6 @@ url_pdf: "https://scholar.colorado.edu/downloads/hh63sx05h"
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
-url_video: ""
+url_source: "https://www.proquest.com/openview/eab0df3c2079e03ea2050f7908ef43dc/1?pq-origsite=gscholar&cbl=18750&diss=y"
+url_video: "https://youtu.be/DJQHwp2nS8w"
 ---
