@@ -28,7 +28,7 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
-summary: Histone deacetylase inhibitors prefererentially suppress expression super-enhancer-driven genes, which are associated with cancer.
+summary: Histone deacetylase inhibitors prefererentially suppress expression of super-enhancer-driven genes, which are associated with cancer.
 tags:
 - doctoral work
 - biochemistry
