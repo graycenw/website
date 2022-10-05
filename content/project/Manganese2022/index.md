@@ -1,6 +1,6 @@
 ---
 title: After a month of yellow drinking water, Altus officials say they've addressed high manganese concentrations
-summary: KOSU Radio & Report for America | October 5, 2022
+summary: KOSU Radio | October 5, 2022
 tags:
 - writing
 - manganese
