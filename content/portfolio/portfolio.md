@@ -28,51 +28,51 @@ design:
 - Illegal and hazardous septic systems lead to emergency order from Department of Environmental Quality: [Web post](https://www.kosu.org/energy-environment/2022-08-04/illegal-and-hazardous-septic-systems-lead-to-emergency-order-from-department-of-environmental-quality) & [radio story](https://open.spotify.com/episode/3dMZVMh4ToY4GkujKBskvV?si=80c879bd5c574f70) | KOSU Radio/Report for America | August 4, 2022
 - Strong attendance at Oklahoma's state parks despite heat, drought and water issues: [Web post](https://www.kosu.org/local-news/2022-08-01/strong-attendance-at-oklahomas-state-parks-despite-heat-drought-and-water-issues) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-08-01/headlines-kansas-abortion-vote-mcgirt-impacts-cockfighting-jurisdiction-reservation-dogs-season-two) | KOSU Radio/Report for America | August 1, 2022
 - [Rural Oklahoma water projects waiting for pandemic relief funds should have news by this fall](https://www.kosu.org/energy-environment/2022-07-25/rural-oklahoma-water-projects-waiting-for-pandemic-relief-funds-should-have-news-by-this-fall) | KOSU Radio/Report for America | July 25, 2022
-- Grand River Dam Authority urges caution near toxic blue-green algal bloom: [Web post](https://www.kosu.org/local-news/2022-07-11/grand-river-dam-authority-urges-caution-near-toxic-blue-green-algal-bloom) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-07-12/headlines-crisis-pregnancies-new-turnpike-projects-shawnee-youth-rodeo)| KOSU Radio/Report for America | July 11, 2022
-- Norman residents asked to conserve water following pump failure: [Web post](https://www.kosu.org/local-news/2022-07-08/norman-residents-asked-to-conserve-water-following-pump-failure) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-07-08/headlines-extreme-weekend-temperatures-tulsa-schools-audit-preseason-football-polling)| KOSU Radio/Report for America | July 8, 2022
-- [Free private well testing expands to three Oklahoma counties this summer, a dozen more in the fall](https://www.kosu.org/local-news/2022-07-06/free-private-well-testing-expands-to-three-oklahoma-counties-this-summer-a-dozen-more-in-the-fall)| KOSU Radio/Report for America | July 6, 2022
-- Drummond wins Attorney General nod over Stitt-appointee O’Connor: [Web post](https://www.kosu.org/oklahoma-primary-election-results-2022-live-updates) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-06-29/headlines-primary-elections-high-gas-prices-summer-weather-fashion)| KOSU Radio/Report for America | June 29, 2022
-- Communities in southeast Oklahoma run out of water as they wait for repairs: [Web post](https://www.kosu.org/energy-environment/2022-06-16/communities-in-southeast-oklahoma-run-out-of-water-as-they-wait-for-repairs) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-06-17/headlines-illegal-medical-marijuana-crackdown-sardis-lake-water-juneteenth-on-the-east)| KOSU Radio/Report for America | July 16, 2022
-- [Energy storage in Moss Landing: A smoky challenge to a new chapter](https://www.montereyherald.com/2022/06/12/energy-storage-in-moss-landing-a-smoky-challenge-to-a-new-chapter/) (Monterey Herald, Santa Cruz Sentinel)
-- [Center for Homeland Defense and Security celebrates 20th anniversary](https://www.montereyherald.com/2022/05/30/center-for-homeland-defense-and-security-celebrates-20th-anniversary/) (Monterey Herald)
-- [New underwater robots help researchers study the Monterey Bay and beyond](https://www.montereyherald.com/2022/05/28/new-underwater-robots-help-researchers-study-the-monterey-bay-and-beyond/) (Monterey Herald, San Jose Mercury News, East Bay Times)
-- [Local residents measure air quality for Monterey Bay Air District’s wildfire monitoring network](https://www.montereyherald.com/2022/05/21/local-residents-measure-air-quality-for-monterey-bay-air-districts-wildfire-monitoring-network/) (Monterey Herald, San Jose Mercury News, East Bay Times)
-- [Home construction goals set to quadruple in Santa Cruz County](https://santacruzlocal.org/2022/05/13/home-construction-goals-set-to-to-quadruple-in-santa-cruz-county/) (Santa Cruz Local)
-- [Monterey Bay Aquarium shares a treasure trove of data about young white sharks](https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/) (Monterey Herald)
-- [Ocean Arts Festival uses art and science to celebrate the sea](https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/) (Monterey Herald, San Jose Mercury News, East Bay Times)
-- [Protecting Monterey’s baby hummingbirds](https://www.montereyherald.com/2022/04/05/protecting-montereys-baby-hummingbirds/) (Monterey Herald)
-- [Monterey: Warm weather is on its way](https://www.montereyherald.com/2022/04/04/monterey-warm-weather-is-on-its-way/) (Monterey Herald)
-- [How to get rent assistance in Santa Cruz County](https://santacruzlocal.org/rent-help/) (Santa Cruz Local)
-- [These spiders hunt in packs. Watch how they do it](https://www.science.org/content/article/these-spiders-hunt-packs-watch-how-they-do-it) (Science)
-- [Sifter: Coronavirus may be evolving in deer](https://www.science.org/content/article/coronavirus-may-be-evolving-deer) (Science)
-- [Pollinators like their flowers with a dash of salt](https://www.science.org/content/article/pollinators-their-flowers-dash-salt) (Science)
-- [Archerfish can distinguish non-animals from animals—even if they’ve never seen them before](https://www.science.org/content/article/archerfish-can-distinguish-animals-nonanimals-even-if-they-ve-never-seen-them) (Science)
-- [Sifter: How mosquitoes avoid pesticides designed to kill them](https://www.science.org/content/article/how-mosquitoes-avoid-pesticides-designed-kill-them) (Science)
-- [Sifter: Viruses may play an unexplored role in the gut-brain axis](https://www.science.org/content/article/viruses-may-play-unexplored-role-gut-brain-axis) (Science)
-- [What is annihilation?](https://www.symmetrymagazine.org/article/what-is-annihilation) (Symmetry Magazine)
-- [Amazon losing far more carbon from forest degradation than deforestation](https://news.mongabay.com/2022/02/amazon-losing-far-more-carbon-from-forest-degradation-than-deforestation-study/) (Mongabay)
-- [New artificial enamel is harder and more durable than the real thing](https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing) (Science)
-- [A day in the life of two accelerator experts](https://www6.slac.stanford.edu/news/2022-02-02-day-life-two-accelerator-experts.aspx) (SLAC National Accelerator Laboratory, Stanford Report)
-- [Dig this: Iconic clams make a comeback at Pismo Beach](https://graycenwheeler.com/uploads/20220204_SanJoseMerc_Clams.pdf) (San Jose Mercury News, Monterey Herald, Santa Cruz Sentinel, East Bay Times)
-- [How do squirrels bulk up while hibernating?](https://www.science.org/content/article/how-do-squirrels-bulk-while-hibernating) (Science)
-- [Mother jaguars may flirt to save their cubs’ lives](https://www.science.org/content/article/mother-jaguars-may-flirt-save-their-cubs-lives) (Science)
-- [The truth behind pseudoscience: Cryptozoology](https://goodtimes.sc/cover-stories/pseudoscience/) (Good Times, Silicon Valley Metro)
+- Grand River Dam Authority urges caution near toxic blue-green algal bloom: [Web post](https://www.kosu.org/local-news/2022-07-11/grand-river-dam-authority-urges-caution-near-toxic-blue-green-algal-bloom) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-07-12/headlines-crisis-pregnancies-new-turnpike-projects-shawnee-youth-rodeo) | KOSU Radio/Report for America | July 11, 2022
+- Norman residents asked to conserve water following pump failure: [Web post](https://www.kosu.org/local-news/2022-07-08/norman-residents-asked-to-conserve-water-following-pump-failure) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-07-08/headlines-extreme-weekend-temperatures-tulsa-schools-audit-preseason-football-polling) | KOSU Radio/Report for America | July 8, 2022
+- [Free private well testing expands to three Oklahoma counties this summer, a dozen more in the fall](https://www.kosu.org/local-news/2022-07-06/free-private-well-testing-expands-to-three-oklahoma-counties-this-summer-a-dozen-more-in-the-fall) | KOSU Radio/Report for America | July 6, 2022
+- Drummond wins Attorney General nod over Stitt-appointee O’Connor: [Web post](https://www.kosu.org/oklahoma-primary-election-results-2022-live-updates) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-06-29/headlines-primary-elections-high-gas-prices-summer-weather-fashion) | KOSU Radio/Report for America | June 29, 2022
+- Communities in southeast Oklahoma run out of water as they wait for repairs: [Web post](https://www.kosu.org/energy-environment/2022-06-16/communities-in-southeast-oklahoma-run-out-of-water-as-they-wait-for-repairs) & [radio story](https://www.kosu.org/podcast/the-kosu-daily/2022-06-17/headlines-illegal-medical-marijuana-crackdown-sardis-lake-water-juneteenth-on-the-east) | KOSU Radio/Report for America | July 16, 2022
+- [Energy storage in Moss Landing: A smoky challenge to a new chapter](https://www.montereyherald.com/2022/06/12/energy-storage-in-moss-landing-a-smoky-challenge-to-a-new-chapter/) | Monterey Herald, Santa Cruz Sentinel | June 13, 2022
+- [Center for Homeland Defense and Security celebrates 20th anniversary](https://www.montereyherald.com/2022/05/30/center-for-homeland-defense-and-security-celebrates-20th-anniversary/) | Monterey Herald | May 30, 2022
+- [New underwater robots help researchers study the Monterey Bay and beyond](https://www.montereyherald.com/2022/05/28/new-underwater-robots-help-researchers-study-the-monterey-bay-and-beyond/) | Monterey Herald, San Jose Mercury News, East Bay Times | May 28, 2022
+- [Local residents measure air quality for Monterey Bay Air District’s wildfire monitoring network](https://www.montereyherald.com/2022/05/21/local-residents-measure-air-quality-for-monterey-bay-air-districts-wildfire-monitoring-network/) | Monterey Herald, San Jose Mercury News, East Bay Times | May 22, 2022
+- [Home construction goals set to quadruple in Santa Cruz County](https://santacruzlocal.org/2022/05/13/home-construction-goals-set-to-to-quadruple-in-santa-cruz-county/) | Santa Cruz Local | May 13, 2022
+- [Monterey Bay Aquarium shares a treasure trove of data about young white sharks](https://www.montereyherald.com/2022/04/25/monterey-bay-aquarium-shares-a-treasure-trove-of-data-about-young-white-sharks/) | Monterey Herald | April 25, 2022
+- [Ocean Arts Festival uses art and science to celebrate the sea](https://www.montereyherald.com/2022/04/08/ocean-arts-festival-uses-art-and-science-to-celebrate-the-sea/) | Monterey Herald, San Jose Mercury News, East Bay Times | April 9, 2022
+- [Protecting Monterey’s baby hummingbirds](https://www.montereyherald.com/2022/04/05/protecting-montereys-baby-hummingbirds/) | Monterey Herald | April 5, 2022
+- [Monterey: Warm weather is on its way](https://www.montereyherald.com/2022/04/04/monterey-warm-weather-is-on-its-way/) | Monterey Herald | April 4, 2022
+- [How to get rent assistance in Santa Cruz County](https://santacruzlocal.org/rent-help/) | Santa Cruz Local | March 8, 2022
+- [These spiders hunt in packs. Watch how they do it](https://www.science.org/content/article/these-spiders-hunt-packs-watch-how-they-do-it) | Science | March 7, 2022
+- [Sifter: Coronavirus may be evolving in deer](https://www.science.org/content/article/coronavirus-may-be-evolving-deer) | Science | March 2, 2022
+- [Pollinators like their flowers with a dash of salt](https://www.science.org/content/article/pollinators-their-flowers-dash-salt) | Science | March 1, 2022
+- [Archerfish can distinguish non-animals from animals—even if they’ve never seen them before](https://www.science.org/content/article/archerfish-can-distinguish-animals-nonanimals-even-if-they-ve-never-seen-them) | Science | March 1, 2022
+- [Sifter: How mosquitoes avoid pesticides designed to kill them](https://www.science.org/content/article/how-mosquitoes-avoid-pesticides-designed-kill-them) | Science | February 23, 2022
+- [Sifter: Viruses may play an unexplored role in the gut-brain axis](https://www.science.org/content/article/viruses-may-play-unexplored-role-gut-brain-axis) | Science | February 20, 2022
+- [What is annihilation?](https://www.symmetrymagazine.org/article/what-is-annihilation) | Symmetry Magazine | February 15, 2022
+- [Amazon losing far more carbon from forest degradation than deforestation](https://news.mongabay.com/2022/02/amazon-losing-far-more-carbon-from-forest-degradation-than-deforestation-study/) | Mongabay | February 9, 2022
+- [New artificial enamel is harder and more durable than the real thing](https://www.science.org/content/article/new-artificial-enamel-harder-and-more-durable-real-thing) | Science | February 3, 2022
+- [A day in the life of two accelerator experts](https://www6.slac.stanford.edu/news/2022-02-02-day-life-two-accelerator-experts.aspx) | SLAC National Accelerator Laboratory, Stanford Report | February 2, 2022
+- [Dig this: Iconic clams make a comeback at Pismo Beach](https://graycenwheeler.com/uploads/20220204_SanJoseMerc_Clams.pdf) | San Jose Mercury News, Monterey Herald, Santa Cruz Sentinel, East Bay Times | January 29, 2022
+- [How do squirrels bulk up while hibernating?](https://www.science.org/content/article/how-do-squirrels-bulk-while-hibernating) | Science | January 27, 2022
+- [Mother jaguars may flirt to save their cubs’ lives](https://www.science.org/content/article/mother-jaguars-may-flirt-save-their-cubs-lives) | Science | January 24, 2022
+- [The truth behind pseudoscience: Cryptozoology](https://goodtimes.sc/cover-stories/pseudoscience/) | Good Times, Silicon Valley Metro | January 5, 2022
 
 ## 2021
-- [Native trees could provide climate solutions to Houston](https://eos.org/articles/native-super-trees-could-provide-climate-solutions-to-houston) (Eos)
-- [Geneticists have identified new groups of tiger sharks to protect](https://news.mongabay.com/2021/11/geneticists-have-identified-new-groups-of-tiger-sharks-to-protect/) (Mongabay)
-- [Catherine Heymans shines as Astronomer Royal for Scotland](https://www.symmetrymagazine.org/article/catherine-heymans-shines-as-astronomer-royal-for-scotland) (Symmetry Magazine)
-- [Researchers recreate deep-Earth conditions to see how iron copes with extreme stress](https://www6.slac.stanford.edu/news/2021-11-11-researchers-recreate-deep-earth-conditions-see-how-iron-copes-extreme-stress.aspx) (SLAC National Accelerator Laboratory)
-- [Rental housing market squeezed by pandemic, wildfire in Santa Cruz County)](https://santacruzlocal.org/2021/10/22/rental-housing-market-squeezed-by-pandemic-wildfire-in-santa-cruz-county/) (Santa Cruz Local)
-- [Aditya Sood receives 2021 LCLS Young Investigator Award for work at intersection of materials science and ultrafast physics](https://www6.slac.stanford.edu/news/2021-10-14-aditya-sood-receives-2021-lcls-young-investigator-award) (SLAC National Accelerator Laboratory)
+- [Native trees could provide climate solutions to Houston](https://eos.org/articles/native-super-trees-could-provide-climate-solutions-to-houston) | Eos | December 15, 2021
+- [Geneticists have identified new groups of tiger sharks to protect](https://news.mongabay.com/2021/11/geneticists-have-identified-new-groups-of-tiger-sharks-to-protect/) | Mongabay | November 30, 2021
+- [Catherine Heymans shines as Astronomer Royal for Scotland](https://www.symmetrymagazine.org/article/catherine-heymans-shines-as-astronomer-royal-for-scotland) | Symmetry Magazine | November 16, 2021
+- [Researchers recreate deep-Earth conditions to see how iron copes with extreme stress](https://www6.slac.stanford.edu/news/2021-11-11-researchers-recreate-deep-earth-conditions-see-how-iron-copes-extreme-stress.aspx) | SLAC National Accelerator Laboratory | November 11, 2022
+- [Rental housing market squeezed by pandemic, wildfire in Santa Cruz County)](https://santacruzlocal.org/2021/10/22/rental-housing-market-squeezed-by-pandemic-wildfire-in-santa-cruz-county/) | Santa Cruz Local | October 22, 2022
+- [Aditya Sood receives 2021 LCLS Young Investigator Award for work at intersection of materials science and ultrafast physics](https://www6.slac.stanford.edu/news/2021-10-14-aditya-sood-receives-2021-lcls-young-investigator-award) | SLAC National Accelerator Laboratory | October 14, 2022
 
 ## 2019
-- [Why you should be a fan of Orit Peleg’s model for beehive ventilation](https://sciencebuffs.org/2019/04/02/why-you-should-be-a-big-fan-of-orit-pelegs-model-for-beehive-ventilation/) (Science Buffs) 
+- [Why you should be a fan of Orit Peleg’s model for beehive ventilation](https://sciencebuffs.org/2019/04/02/why-you-should-be-a-big-fan-of-orit-pelegs-model-for-beehive-ventilation/) | Science Buffs | April 2, 2019
 
 ## 2018
-- [#ThanksScience for parade floats](https://sciencebuffs.org/2018/11/21/thanksgiving-thanksscience-thanks-for-parade-floats/) (Science Buffs)
-- [Day in the life: Hydrogeologist Grace Guryan](https://sciencebuffs.org/2018/07/02/day-in-the-life-grace-guryan/) (Science Buffs)
+- [#ThanksScience for parade floats](https://sciencebuffs.org/2018/11/21/thanksgiving-thanksscience-thanks-for-parade-floats/) | Science Buffs | November 21, 2018
+- [Day in the life: Hydrogeologist Grace Guryan](https://sciencebuffs.org/2018/07/02/day-in-the-life-grace-guryan/) | Science Buffs | July 2, 2018
 
 ## 2017
-- [Ten-hundred word challenge: The little circle a doctor gives you vs. the bad block](https://sciencebuffs.org/2017/12/07/ten-hundred-word-challenge-part-6/) (Science Buffs)
-- [Graduate student snapshot: Zac Holmes](https://sciencebuffs.org/2017/11/21/graduate-student-snapshot-zac-holmes/) (Science Buffs)
+- [Ten-hundred word challenge: The little circle a doctor gives you vs. the bad block](https://sciencebuffs.org/2017/12/07/ten-hundred-word-challenge-part-6/) | Science Buffs | December 7, 2017
+- [Graduate student snapshot: Zac Holmes](https://sciencebuffs.org/2017/11/21/graduate-student-snapshot-zac-holmes/) | Science Buffs | November 21, 2017
