@@ -13,7 +13,7 @@ design:
 ---
 
 ## 2022
-- [After a month of yellow drinking water, Altus officials say they've addressed high manganese concentrations](https://www.kosu.org/energy-environment/2022-10-05/after-a-month-of-yellow-drinking-water-altus-officials-say-theyve-addressed-high-manganese-concentrations) | KOSU Radio/Report for America | October 5, 2022
+- [After a month of yellow drinking water, Altus officials say they've addressed high manganese concentrations](https://www.kosu.org/energy-environment/2022-10-05/after-a-month-of-yellow-drinking-water-altus-officials-say-theyve-addressed-high-manganese-concentrations)<br>KOSU Radio/Report for America | October 5, 2022
 - [California runs hot and cold on striped bass](https://ucscsciencenotes.com/feature/california-runs-hot-and-cold-on-striped-bass/) | UCSC Science Notes | October 3, 2022
 - [Oklahoma Legislature allocates more than $440 million to water infrastructure projects, with clear focus on economic development](https://www.kosu.org/local-news/2022-10-03/oklahoma-legislature-allocates-more-than-440-million-to-water-infrastructure-projects-with-clear-focus-on-economic-development) | KOSU Radio/Report for America | October 3, 2022
 - [To develop a state flood plan, Oklahoma officials seek better understanding of community flooding hazards](https://www.kosu.org/energy-environment/2022-09-26/to-develop-a-state-flood-plan-oklahoma-officials-seek-better-understanding-of-community-flooding-hazards) | KOSU Radio/Report for America | September 26, 2022
