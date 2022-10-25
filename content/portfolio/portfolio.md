@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Who and what's on the ballot for the November 8th general election in Oklahoma: The race for Oklahoma’s top elected financial officer](https://www.kosu.org/oklahoma-general-election-preview-2022) | KOSU Radio/Report for America | October 25, 2022
 - [Oklahoma City requests water from Canton Lake for the second time this year](https://www.kosu.org/energy-environment/2022-10-19/oklahoma-city-requests-water-from-canton-lake-for-the-second-time-this-year) | KOSU Radio/Report for America | October 19, 2022
 - [After a month of yellow drinking water, Altus officials say they've addressed high manganese concentrations](https://www.kosu.org/energy-environment/2022-10-05/after-a-month-of-yellow-drinking-water-altus-officials-say-theyve-addressed-high-manganese-concentrations) | KOSU Radio/Report for America | October 5, 2022
 - [California runs hot and cold on striped bass](https://ucscsciencenotes.com/feature/california-runs-hot-and-cold-on-striped-bass/) | UCSC Science Notes | October 3, 2022
@@ -32,7 +33,7 @@ design:
 - [Grand River Dam Authority urges caution near toxic blue-green algal bloom](https://www.kosu.org/local-news/2022-07-11/grand-river-dam-authority-urges-caution-near-toxic-blue-green-algal-bloom) | KOSU Radio/Report for America | July 11, 2022
 - [Norman residents asked to conserve water following pump failure](https://www.kosu.org/local-news/2022-07-08/norman-residents-asked-to-conserve-water-following-pump-failure) | KOSU Radio/Report for America | July 8, 2022
 - [Free private well testing expands to three Oklahoma counties this summer, a dozen more in the fall](https://www.kosu.org/local-news/2022-07-06/free-private-well-testing-expands-to-three-oklahoma-counties-this-summer-a-dozen-more-in-the-fall) | KOSU Radio/Report for America | July 6, 2022
-- [Drummond wins Attorney General nod over Stitt-appointee O’Connor](https://www.kosu.org/oklahoma-primary-election-results-2022-live-updates) | KOSU Radio/Report for America | June 29, 2022
+- [Stitt, Hofmeister battle set, O'Connor loses AG primary, several races advance to runoff: Drummond wins Attorney General nod over Stitt-appointee O’Connor](https://www.kosu.org/oklahoma-primary-election-results-2022-live-updates) | KOSU Radio/Report for America | June 29, 2022
 - [Communities in southeast Oklahoma run out of water as they wait for repairs](https://www.kosu.org/energy-environment/2022-06-16/communities-in-southeast-oklahoma-run-out-of-water-as-they-wait-for-repairs) | KOSU Radio/Report for America | July 16, 2022
 - [Energy storage in Moss Landing: A smoky challenge to a new chapter](https://www.montereyherald.com/2022/06/12/energy-storage-in-moss-landing-a-smoky-challenge-to-a-new-chapter/) | Monterey Herald, Santa Cruz Sentinel | June 13, 2022
 - [Center for Homeland Defense and Security celebrates 20th anniversary](https://www.montereyherald.com/2022/05/30/center-for-homeland-defense-and-security-celebrates-20th-anniversary/) | Monterey Herald | May 30, 2022
