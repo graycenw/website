@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Oklahomans can now apply for assistance with water, sewer bills](https://www.kosu.org/local-news/2022-10-31/oklahomans-can-now-apply-for-assistance-with-water-sewer-bills) | KOSU Radio/Report for America | October 31, 2022
 - [Who and what's on the ballot for the November 8th general election in Oklahoma: The race for Oklahoma’s top elected financial officer](https://www.kosu.org/oklahoma-general-election-preview-2022) | KOSU Radio/Report for America | October 25, 2022
 - [Oklahoma City requests water from Canton Lake for the second time this year](https://www.kosu.org/energy-environment/2022-10-19/oklahoma-city-requests-water-from-canton-lake-for-the-second-time-this-year) | KOSU Radio/Report for America | October 19, 2022
 - [After a month of yellow drinking water, Altus officials say they've addressed high manganese concentrations](https://www.kosu.org/energy-environment/2022-10-05/after-a-month-of-yellow-drinking-water-altus-officials-say-theyve-addressed-high-manganese-concentrations) | KOSU Radio/Report for America | October 5, 2022
