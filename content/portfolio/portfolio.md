@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Students in Beggs attended virtual class for eight days this month while their school had no water](https://www.kosu.org/local-news/2022-11-17/students-in-beggs-attended-virtual-class-for-eight-days-this-month-while-their-school-had-no-water) | KOSU Radio/Report for America | November 17, 2022
 - [Bacterial illness in western Oklahoma leaves state officials searching for source](https://www.kosu.org/health/2022-11-14/bacterial-illness-in-western-oklahoma-leaves-state-officials-searching-for-source) | KOSU Radio/Report for America | November 14, 2022
 - [Kevin Stitt wins reelection for Oklahoma Governor, Ryan Walters becomes State Superintendent: Russ becomes State Treasurer](https://www.kosu.org/oklahoma-midterm-election-results-2022) | KOSU Radio/Report for America | October 31, 2022
 - [Oklahomans can now apply for assistance with water, sewer bills](https://www.kosu.org/local-news/2022-10-31/oklahomans-can-now-apply-for-assistance-with-water-sewer-bills) | KOSU Radio/Report for America | October 31, 2022
