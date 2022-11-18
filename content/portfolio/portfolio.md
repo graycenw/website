@@ -13,9 +13,10 @@ design:
 ---
 
 ## 2022
+- [‘Not just a flood, but a toxic flood’: Lead mining waste sits in the same floodwaters as Northeast Oklahoma homes and businesses](https://www.kosu.org/energy-environment/2022-11-18/not-just-a-flood-but-a-toxic-flood-lead-mining-waste-sits-in-the-same-floodwaters-as-northeast-oklahoma-homes-and-businesses) | KOSU Radio/Report for America | November 18, 2022
 - [Students in Beggs attended virtual class for eight days this month while their school had no water](https://www.kosu.org/local-news/2022-11-17/students-in-beggs-attended-virtual-class-for-eight-days-this-month-while-their-school-had-no-water) | KOSU Radio/Report for America | November 17, 2022
 - [Bacterial illness in western Oklahoma leaves state officials searching for source](https://www.kosu.org/health/2022-11-14/bacterial-illness-in-western-oklahoma-leaves-state-officials-searching-for-source) | KOSU Radio/Report for America | November 14, 2022
-- [Kevin Stitt wins reelection for Oklahoma Governor, Ryan Walters becomes State Superintendent: Russ becomes State Treasurer](https://www.kosu.org/oklahoma-midterm-election-results-2022) | KOSU Radio/Report for America | October 31, 2022
+- [Kevin Stitt wins reelection for Oklahoma Governor, Ryan Walters becomes State Superintendent: Russ becomes State Treasurer](https://www.kosu.org/oklahoma-midterm-election-results-2022) | KOSU Radio/Report for America | November 9, 2022
 - [Oklahomans can now apply for assistance with water, sewer bills](https://www.kosu.org/local-news/2022-10-31/oklahomans-can-now-apply-for-assistance-with-water-sewer-bills) | KOSU Radio/Report for America | October 31, 2022
 - [Who and what's on the ballot for the November 8th general election in Oklahoma: The race for Oklahoma’s top elected financial officer](https://www.kosu.org/oklahoma-general-election-preview-2022) | KOSU Radio/Report for America | October 25, 2022
 - [Oklahoma City requests water from Canton Lake for the second time this year](https://www.kosu.org/energy-environment/2022-10-19/oklahoma-city-requests-water-from-canton-lake-for-the-second-time-this-year) | KOSU Radio/Report for America | October 19, 2022
