@@ -10,7 +10,7 @@ role: Water reporter | Report for America corps member
 
 # Organizations/Affiliations
 organizations:
-- name: "KOSU Radio | Oklahoma City, OK"
+- name: "KOSU | Oklahoma City, OK"
   url: "https://www.kosu.org/people/graycen-wheeler"
 
 # Short bio (displayed in user profile at end of posts)
