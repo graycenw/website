@@ -13,7 +13,7 @@ design:
 ---
 
 ## 2022
-- [NASA astronauts prepare to answer Osage students' questions from orbit]	(https://www.kosu.org/local-news/2022-11-22/nasa-astronauts-prepare-to-answer-osage-students-questions-from-orbit)	| KOSU/Report for America	 | November 22, 2022
+- [NASA astronauts prepare to answer Osage students' questions from orbit](https://www.kosu.org/local-news/2022-11-22/nasa-astronauts-prepare-to-answer-osage-students-questions-from-orbit)	| KOSU/Report for America	 | November 22, 2022
 - [Scientists and state officials honor underappreciated fish with Gar Week](https://www.kosu.org/energy-environment/2022-11-21/scientists-and-state-officials-honor-underappreciated-fish-with-gar-week) | KOSU/Report for America| November 21, 2022
 - [‘Not just a flood, but a toxic flood’: Lead mining waste sits in the same floodwaters as Northeast Oklahoma homes and businesses](https://www.kosu.org/energy-environment/2022-11-18/not-just-a-flood-but-a-toxic-flood-lead-mining-waste-sits-in-the-same-floodwaters-as-northeast-oklahoma-homes-and-businesses) | KOSU/Report for America | November 18, 2022
 - [Students in Beggs attended virtual class for eight days this month while their school had no water](https://www.kosu.org/local-news/2022-11-17/students-in-beggs-attended-virtual-class-for-eight-days-this-month-while-their-school-had-no-water) | KOSU/Report for America | November 17, 2022
