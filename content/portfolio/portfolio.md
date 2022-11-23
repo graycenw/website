@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Oklahoma City Council votes not to consider an ordinance that would have criminalized homeless encampments](https://www.kosu.org/local-news/2022-11-23/oklahoma-city-council-votes-not-to-consider-an-ordinance-that-would-have-criminalized-homeless-encampments)	| KOSU/Report for America	 | November 23, 2022
 - [NASA astronauts prepare to answer Osage students' questions from orbit](https://www.kosu.org/local-news/2022-11-22/nasa-astronauts-prepare-to-answer-osage-students-questions-from-orbit)	| KOSU/Report for America	 | November 22, 2022
 - [Scientists and state officials honor underappreciated fish with Gar Week](https://www.kosu.org/energy-environment/2022-11-21/scientists-and-state-officials-honor-underappreciated-fish-with-gar-week) | KOSU/Report for America| November 21, 2022
 - [‘Not just a flood, but a toxic flood’: Lead mining waste sits in the same floodwaters as Northeast Oklahoma homes and businesses](https://www.kosu.org/energy-environment/2022-11-18/not-just-a-flood-but-a-toxic-flood-lead-mining-waste-sits-in-the-same-floodwaters-as-northeast-oklahoma-homes-and-businesses) | KOSU/Report for America | November 18, 2022
