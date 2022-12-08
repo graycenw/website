@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Disasters that define us': Examining Northeast Oklahoma’s patchwork of flood protections](https://www.kosu.org/show/stateimpact-oklahoma/2022-12-08/disasters-that-define-us-examining-northeast-oklahomas-patchwork-of-flood-protections) | KOSU/Report for America | December 8, 2022
 - [Water treatment plant found to be spilling raw sewage into Edmond creek](https://www.kosu.org/2022-12-06/water-treatment-plant-found-to-be-spilling-raw-sewage-into-edmond-creek) | KOSU/Report for America | December 6, 2022
 - [Oklahoma Department of Wildlife Conservation seeks public comment on proposed rule changes](https://www.kosu.org/energy-environment/2022-12-05/oklahoma-department-of-wildlife-conservation-seeks-public-comment-on-proposed-rule-changes) | KOSU/Report for America | December 5, 2022
 - [Students send the Osage language to space and hear back from Indigenous astronaut Nicole Mann](https://www.kosu.org/local-news/2022-11-29/students-send-the-osage-language-to-space-and-hear-back-from-indigenous-astronaut-nicole-mann)	| KOSU/Report for America	 | November 29, 2022
