@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Temporary fix to Bethany-Warr Acres wastewater treatment issue springs a leak](https://www.kosu.org/energy-environment/2022-12-14/temporary-fix-to-bethany-warr-acres-wastewater-treatment-issue-springs-a-leak) | KOSU/Report for America | December 14, 2022
 - [Oklahoma receives funds to update water infrastructure in disadvantaged areas](https://www.kosu.org/energy-environment/2022-12-12/oklahoma-receives-funds-to-update-water-infrastructure-in-disadvantaged-areas) | KOSU/Report for America | December 12, 2022
 - ['Disasters that define us': Examining Northeast Oklahoma’s patchwork of flood protections](https://www.kosu.org/show/stateimpact-oklahoma/2022-12-08/disasters-that-define-us-examining-northeast-oklahomas-patchwork-of-flood-protections) | KOSU/Report for America | December 8, 2022
 - [Water treatment plant found to be spilling raw sewage into Edmond creek](https://www.kosu.org/2022-12-06/water-treatment-plant-found-to-be-spilling-raw-sewage-into-edmond-creek) | KOSU/Report for America | December 6, 2022
