@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Cherokee Nation funding construction of new water tower in rural eastern Oklahoma town](https://www.kosu.org/local-news/2022-12-19/cherokee-nation-funding-construction-of-new-water-tower-in-rural-eastern-oklahoma-town) | KOSU/Report for America | December 19, 2022
 - [Temporary fix to Bethany-Warr Acres wastewater treatment issue springs a leak](https://www.kosu.org/energy-environment/2022-12-14/temporary-fix-to-bethany-warr-acres-wastewater-treatment-issue-springs-a-leak) | KOSU/Report for America | December 14, 2022
 - [Oklahoma receives funds to update water infrastructure in disadvantaged areas](https://www.kosu.org/energy-environment/2022-12-12/oklahoma-receives-funds-to-update-water-infrastructure-in-disadvantaged-areas) | KOSU/Report for America | December 12, 2022
 - ['Disasters that define us': Examining Northeast Oklahoma’s patchwork of flood protections](https://www.kosu.org/show/stateimpact-oklahoma/2022-12-08/disasters-that-define-us-examining-northeast-oklahomas-patchwork-of-flood-protections) | KOSU/Report for America | December 8, 2022
