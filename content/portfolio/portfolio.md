@@ -13,6 +13,7 @@ design:
 ---
 
 ## 2022
+- [Preparation is key as Oklahomans brace for cold temperatures](https://www.kosu.org/local-news/2022-12-20/preparation-is-key-as-oklahomans-brace-for-cold-temperatures) | KOSU/Report for America | December 20, 2022
 - [Cherokee Nation funding construction of new water tower in rural eastern Oklahoma town](https://www.kosu.org/local-news/2022-12-19/cherokee-nation-funding-construction-of-new-water-tower-in-rural-eastern-oklahoma-town) | KOSU/Report for America | December 19, 2022
 - [Temporary fix to Bethany-Warr Acres wastewater treatment issue springs a leak](https://www.kosu.org/energy-environment/2022-12-14/temporary-fix-to-bethany-warr-acres-wastewater-treatment-issue-springs-a-leak) | KOSU/Report for America | December 14, 2022
 - [Oklahoma receives funds to update water infrastructure in disadvantaged areas](https://www.kosu.org/energy-environment/2022-12-12/oklahoma-receives-funds-to-update-water-infrastructure-in-disadvantaged-areas) | KOSU/Report for America | December 12, 2022
