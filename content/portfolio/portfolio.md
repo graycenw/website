@@ -11,9 +11,10 @@ subtitle: ""
 design:
   columns: '1'
 ---
+## 2023
+- [Oklahoma officials express concern about new EPA definition of Clean Water Act’s scope](https://www.kosu.org/energy-environment/2023-01-05/oklahoma-officials-express-concern-about-new-epa-definition-of-clean-water-acts-scope)	| KOSU/Report for America	| January 5, 2023
 
 ## 2022
-- [Oklahoma officials express concern about new EPA definition of Clean Water Act’s scope](https://www.kosu.org/energy-environment/2023-01-05/oklahoma-officials-express-concern-about-new-epa-definition-of-clean-water-acts-scope)	| KOSU/Report for America	| January 5, 2023														
 - [Osage Nation doubles the financial assistance available to tribe members in crisis](https://www.kosu.org/local-news/2022-12-22/osage-nation-doubles-the-financial-assistance-available-to-tribe-members-in-crisis) | KOSU/Report for America | December 22, 2022
 - [Preparation is key as Oklahomans brace for cold temperatures](https://www.kosu.org/local-news/2022-12-20/preparation-is-key-as-oklahomans-brace-for-cold-temperatures) | KOSU/Report for America | December 20, 2022
 - [Cherokee Nation funding construction of new water tower in rural eastern Oklahoma town](https://www.kosu.org/local-news/2022-12-19/cherokee-nation-funding-construction-of-new-water-tower-in-rural-eastern-oklahoma-town) | KOSU/Report for America | December 19, 2022
