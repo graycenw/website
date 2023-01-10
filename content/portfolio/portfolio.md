@@ -12,6 +12,7 @@ design:
   columns: '1'
 ---
 ## 2023
+- [Two proposed bills would keep closer tabs on Oklahoma marijuana growers' water use](https://www.kosu.org/local-news/2023-01-10/two-proposed-bills-would-keep-closer-tabs-on-oklahoma-marijuana-growers-water-use) | KOSU/ Report for America	| January 10, 2022
 - [Oklahoma officials express concern about new EPA definition of Clean Water Act’s scope](https://www.kosu.org/energy-environment/2023-01-05/oklahoma-officials-express-concern-about-new-epa-definition-of-clean-water-acts-scope)	| KOSU/Report for America	| January 5, 2023
 
 ## 2022
