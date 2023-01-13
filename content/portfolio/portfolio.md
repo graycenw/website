@@ -14,6 +14,7 @@ design:
 ## 2023
 - [Two proposed bills would keep closer tabs on Oklahoma marijuana growers' water use](https://www.kosu.org/local-news/2023-01-10/two-proposed-bills-would-keep-closer-tabs-on-oklahoma-marijuana-growers-water-use) | KOSU/ Report for America	| January 10, 2022
 - [Oklahoma officials express concern about new EPA definition of Clean Water Act’s scope](https://www.kosu.org/energy-environment/2023-01-05/oklahoma-officials-express-concern-about-new-epa-definition-of-clean-water-acts-scope)	| KOSU/Report for America	| January 5, 2023
+- [A proposed bill would ban fluoride in drinking water, data shows areas with more fluoride in water have better dental health](https://www.kosu.org/energy-environment/2023-01-13/a-proposed-bill-would-ban-fluoride-in-drinking-water-data-shows-areas-with-more-fluoride-in-water-have-better-dental-health)	KOSU/ Report for America	January 13, 2022
 
 ## 2022
 - [Osage Nation doubles the financial assistance available to tribe members in crisis](https://www.kosu.org/local-news/2022-12-22/osage-nation-doubles-the-financial-assistance-available-to-tribe-members-in-crisis) | KOSU/Report for America | December 22, 2022
