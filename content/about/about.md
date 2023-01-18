@@ -13,7 +13,7 @@ design:
 ---
 
 \
-Graycen Wheeler is a reporter and [Report for America](https://www.reportforamerica.org/about-us/) corps member covering rural water issues at [KOSU Radio](https://www.kosu.org/) in Oklahoma City. She's also a non-practicing biochemist, a tabletop RPG enthusiast, a bike rider and a cat person.
+Graycen Wheeler is a reporter and [Report for America](https://www.reportforamerica.org/about-us/) corps member covering Oklahoma water issues at [KOSU Radio](https://www.kosu.org/) in Oklahoma City. She's also a non-practicing biochemist, a tabletop RPG enthusiast, a bike rider and a cat person.
 
 While completing her Ph.D. in biochemistry at the [University of Colorado Boulder](https://www.colorado.edu/lab/liu/), Graycen realized how much she loved telling stories about science. She wrote and edited for [Science Buffs](https://sciencebuffs.org/), a CU Boulder STEM blog, before joining its leadership team and ultimately becoming editor in chief. She also founded, hosted and produced the blog's affiliate podcast, [Buffs Talk Science](https://buffstalkscience.com).
 
