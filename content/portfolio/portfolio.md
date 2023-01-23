@@ -12,7 +12,8 @@ design:
   columns: '1'
 ---
 ## 2023
-- [Enid receives federal money to brace water supply against drought, future growth](https://www.kosu.org/local-news/2023-01-19/enid-receives-federal-money-to-brace-water-supply-against-future-growth-and-drought) |	KOSU/ Report for America |	Jan. 19, 2023
+- [‘A great and historic day for Oklahoma’: Federal judge rules Arkansas poultry corporations must remedy pollution in the Illinois River and Lake Tenkiller](https://www.kosu.org/energy-environment/2023-01-23/a-great-and-historic-day-for-oklahoma-federal-judge-rules-arkansas-poultry-corporations-must-remedy-pollution-in-the-illinois-river-and-lake-tenkiller) |	KOSU/ Report for America |	January 23, 2023
+- [Enid receives federal money to brace water supply against drought, future growth](https://www.kosu.org/local-news/2023-01-19/enid-receives-federal-money-to-brace-water-supply-against-future-growth-and-drought) |	KOSU/ Report for America |	January 19, 2023
 - [OKC sues oil company for stealing water intended for emergency drought relief](https://www.kosu.org/local-news/2023-01-17/okc-sues-oil-company-for-stealing-water-intended-for-emergency-drought-relief) |	KOSU/ Report for America	| January 17, 2023
 - [A proposed bill would ban fluoride in drinking water, data shows areas with more fluoride in water have better dental health](https://www.kosu.org/energy-environment/2023-01-13/a-proposed-bill-would-ban-fluoride-in-drinking-water-data-shows-areas-with-more-fluoride-in-water-have-better-dental-health)	KOSU/ Report for America	January 13, 2022
 - [Two proposed bills would keep closer tabs on Oklahoma marijuana growers' water use](https://www.kosu.org/local-news/2023-01-10/two-proposed-bills-would-keep-closer-tabs-on-oklahoma-marijuana-growers-water-use) | KOSU/ Report for America	| January 10, 2023
