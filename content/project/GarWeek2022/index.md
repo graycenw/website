@@ -7,7 +7,7 @@ tags:
 - KOSU
 - fish
 
-date: "2022-11-17T12:00:00Z"
+date: "2022-11-03T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.kosu.org/energy-environment/2022-11-21/scientists-and-state-officials-honor-underappreciated-fish-with-gar-week
