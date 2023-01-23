@@ -1,5 +1,5 @@
 ---
-title: 'Not just a flood, but a toxic flood': Lead mining waste sits in the same floodwaters as Northeast Oklahoma homes and businesses
+title: "'Not just a flood, but a toxic flood': Lead mining waste sits in the same floodwaters as Northeast Oklahoma homes and businesses"
 summary: KOSU | November 18, 2022
 tags:
 - writing
