@@ -12,6 +12,7 @@ design:
   columns: '1'
 ---
 ## 2023
+- [76 Oklahoma communities to receive funds for water and wastewater projects](https://www.kosu.org/energy-environment/2023-01-30/76-oklahoma-communities-to-receive-funds-for-water-and-wastewater-projects) |	KOSU/Report for America	| January 30, 2023
 - [Oklahoma grass the real MVP of this weekend's NFL Conference Championships](https://www.kosu.org/local-news/2023-01-27/oklahoma-grass-the-real-mvp-of-this-weekends-nfl-conference-championships) |	KOSU/Report for America	| January 27, 2023
 - [What to watch for during Oklahoma's 2023 legislative session](https://www.kosu.org/oklahoma-legislative-session-2023) |	KOSU/Report for America |	January 25, 2023
 - [‘A great and historic day for Oklahoma’: Federal judge rules Arkansas poultry corporations must remedy pollution in the Illinois River and Lake Tenkiller](https://www.kosu.org/energy-environment/2023-01-23/a-great-and-historic-day-for-oklahoma-federal-judge-rules-arkansas-poultry-corporations-must-remedy-pollution-in-the-illinois-river-and-lake-tenkiller) |	KOSU/Report for America |	January 23, 2023
