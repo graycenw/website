@@ -13,6 +13,7 @@ design:
 ---
 ## 2023
 - [Oklahoma Gov. Kevin Stitt pushes for continuation of conservative agenda at State of the State](https://www.kosu.org/oklahoma-governor-kevin-stitt-state-of-the-state-address) |	KOSU/Report for America	| February 7, 2023
+- [Oklahoma Gov. Kevin Stitt signs letter opposing new Waters of the United States rule](https://www.kosu.org/energy-environment/2023-02-01/oklahoma-gov-kevin-stitt-signs-letter-opposing-new-waters-of-the-united-states-rule) |	KOSU/Report for America |	February 1, 2023
 - [76 Oklahoma communities to receive funds for water and wastewater projects](https://www.kosu.org/energy-environment/2023-01-30/76-oklahoma-communities-to-receive-funds-for-water-and-wastewater-projects) |	KOSU/Report for America	| January 30, 2023
 - [Oklahoma grass the real MVP of this weekend's NFL Conference Championships](https://www.kosu.org/local-news/2023-01-27/oklahoma-grass-the-real-mvp-of-this-weekends-nfl-conference-championships) |	KOSU/Report for America	| January 27, 2023
 - [What to watch for during Oklahoma's 2023 legislative session](https://www.kosu.org/oklahoma-legislative-session-2023) |	KOSU/Report for America |	January 25, 2023
