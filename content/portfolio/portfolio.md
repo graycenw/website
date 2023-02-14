@@ -3,6 +3,7 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
+
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
@@ -12,7 +13,7 @@ design:
   columns: '1'
 ---
 ## 2023
-#- [Bills to bolster Oklahoma teacher numbers advance in House]() | KOSU/Report for America	| February 15, 2023
+# - [Bills to bolster Oklahoma teacher numbers advance in House]() | KOSU/Report for America	| February 15, 2023
 - [Oklahoma sees slight improvements after months of harsh drought](https://www.kosu.org/energy-environment/2023-02-08/oklahoma-sees-slight-improvements-after-months-of-harsh-drought) |	KOSU/Report for America |	February 8, 2023
 - [Oklahoma Gov. Kevin Stitt pushes for continuation of conservative agenda at State of the State](https://www.kosu.org/oklahoma-governor-kevin-stitt-state-of-the-state-address) |	KOSU/Report for America	| February 7, 2023
 - [Oklahoma Gov. Kevin Stitt signs letter opposing new Waters of the United States rule](https://www.kosu.org/energy-environment/2023-02-01/oklahoma-gov-kevin-stitt-signs-letter-opposing-new-waters-of-the-united-states-rule) |	KOSU/Report for America |	February 1, 2023
