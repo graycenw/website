@@ -13,6 +13,7 @@ design:
   columns: '1'
 ---
 ## 2023
+- [A bill requiring carbon monoxide warning stickers on Oklahoma boats passes the House Public Safety Committee](https://www.kosu.org/local-news/2023-02-16/a-bill-requiring-carbon-monoxide-warning-stickers-on-oklahoma-boats-passes-the-house-public-safety-committee) |	KOSU/Report for America	| February 16, 2023
 - [Bills to bolster Oklahoma teacher numbers advance in House](https://www.kosu.org/education/2023-02-15/bills-to-bolster-oklahoma-teacher-numbers-advance-in-house) |	KOSU/Report for America |	February 15, 2023
 - [Oklahoma sees slight improvements after months of harsh drought](https://www.kosu.org/energy-environment/2023-02-08/oklahoma-sees-slight-improvements-after-months-of-harsh-drought) |	KOSU/Report for America |	February 8, 2023
 - [Oklahoma Gov. Kevin Stitt pushes for continuation of conservative agenda at State of the State](https://www.kosu.org/oklahoma-governor-kevin-stitt-state-of-the-state-address) |	KOSU/Report for America	| February 7, 2023
