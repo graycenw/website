@@ -14,7 +14,7 @@ design:
 ---
 ## 2023
 - [Oklahoma Senate will hear bill to remove sales tax exemptions for cannabis growers, monitor their water use](https://www.kosu.org/energy-environment/2023-03-01/oklahoma-senate-will-hear-bill-to-remove-sales-tax-exemptions-for-cannabis-growers-monitor-their-water-use) |	KOSU/Report for America |	March 1, 2023
-- - [A conversation with Oklahoma meteorologist Liz Leitman, the first woman to issue a thunderstorm watch](https://www.kosu.org/energy-environment/2023-02-28/a-conversation-with-oklahoma-meteorologist-liz-leitman-the-first-woman-to-issue-a-thunderstorm-watch) |	KOSU/Report for America |	February 28, 2023
+- [A conversation with Oklahoma meteorologist Liz Leitman, the first woman to issue a thunderstorm watch](https://www.kosu.org/energy-environment/2023-02-28/a-conversation-with-oklahoma-meteorologist-liz-leitman-the-first-woman-to-issue-a-thunderstorm-watch) |	KOSU/Report for America |	February 28, 2023
 - [At least seven tornadoes result in 1 dead, dozens injured across Oklahoma](https://www.kosu.org/local-news/2023-02-27/severe-storms-cause-damage-in-norman-injuring-12) |	KOSU/Report for America |	February 27, 2023
 - [Researchers say the Arkansas River will slow down. What does that mean for Oklahoma?](https://www.kosu.org/energy-environment/2023-02-23/researchers-say-the-arkansas-river-will-slow-down-what-does-that-mean-for-oklahoma) |	KOSU/Report for America	| February 23, 2023
 - [Research from OU finds investments in rural water infrastructure improve economic outcomes after 8 years](https://www.kosu.org/energy-environment/2023-02-17/research-from-ou-finds-investments-in-rural-water-infrastructure-improve-economic-outcomes-after-8-years) |	KOSU/Report for America |	February 17, 2023
