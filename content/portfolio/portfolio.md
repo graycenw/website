@@ -13,6 +13,7 @@ design:
   columns: '1'
 ---
 ## 2023
+- [Central Oklahoma communities receive $43.7 million in federal funding for transportation projects](https://www.kosu.org/local-news/2023-03-06/central-oklahoma-communities-receive-43-7-million-in-federal-funding-for-transportation-projects) |	KOSU/Report for America |	March 6, 2023
 - [Oklahoma Senate will hear bill to remove sales tax exemptions for cannabis growers, monitor their water use](https://www.kosu.org/energy-environment/2023-03-01/oklahoma-senate-will-hear-bill-to-remove-sales-tax-exemptions-for-cannabis-growers-monitor-their-water-use) |	KOSU/Report for America |	March 1, 2023
 - [A conversation with Oklahoma meteorologist Liz Leitman, the first woman to issue a thunderstorm watch](https://www.kosu.org/energy-environment/2023-02-28/a-conversation-with-oklahoma-meteorologist-liz-leitman-the-first-woman-to-issue-a-thunderstorm-watch) |	KOSU/Report for America |	February 28, 2023
 - [At least seven tornadoes result in 1 dead, dozens injured across Oklahoma](https://www.kosu.org/local-news/2023-02-27/severe-storms-cause-damage-in-norman-injuring-12) |	KOSU/Report for America |	February 27, 2023
