@@ -13,6 +13,9 @@ design:
   columns: '1'
 ---
 ## 2023
+- [What can be done to slow the spread of eastern redcedars in Western Oklahoma?](https://www.kosu.org/energy-environment/2023-03-15/what-can-be-done-to-slow-the-spread-of-eastern-redcedars-in-western-oklahoma) |	KOSU/Report for America |	March 15, 2023
+- [Oklahoma rejects EPA plan to transfer contaminated soil from East Palestine to hazardous waste facility](https://www.kosu.org/energy-environment/2023-03-14/oklahoma-rejects-epa-plan-to-transfer-contaminated-soil-from-east-palestine-to-hazardous-waste-facility) |	KOSU/Report for America	| March 14, 2023
+- [No danger to the public' after train derails in Northeast Oklahoma](https://www.kosu.org/local-news/2023-03-09/no-danger-to-the-public-after-train-derails-in-northeast-oklahoma) |	KOSU/Report for America	| March 9, 2023
 - [Central Oklahoma communities receive $43.7 million in federal funding for transportation projects](https://www.kosu.org/local-news/2023-03-06/central-oklahoma-communities-receive-43-7-million-in-federal-funding-for-transportation-projects) |	KOSU/Report for America |	March 6, 2023
 - [Oklahoma Senate will hear bill to remove sales tax exemptions for cannabis growers, monitor their water use](https://www.kosu.org/energy-environment/2023-03-01/oklahoma-senate-will-hear-bill-to-remove-sales-tax-exemptions-for-cannabis-growers-monitor-their-water-use) |	KOSU/Report for America |	March 1, 2023
 - [A conversation with Oklahoma meteorologist Liz Leitman, the first woman to issue a thunderstorm watch](https://www.kosu.org/energy-environment/2023-02-28/a-conversation-with-oklahoma-meteorologist-liz-leitman-the-first-woman-to-issue-a-thunderstorm-watch) |	KOSU/Report for America |	February 28, 2023
