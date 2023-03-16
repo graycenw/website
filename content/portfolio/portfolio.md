@@ -13,6 +13,7 @@ design:
   columns: '1'
 ---
 ## 2023
+- [EPA proposes new limits for forever chemicals and sets aside money for Oklahoma to address them](https://www.kosu.org/energy-environment/2023-03-16/epa-proposes-new-limits-for-forever-chemicals-and-sets-aside-money-for-oklahoma-to-address-them) |	KOSU/Report for America |	March 16, 2023
 - [What can be done to slow the spread of eastern redcedars in Western Oklahoma?](https://www.kosu.org/energy-environment/2023-03-15/what-can-be-done-to-slow-the-spread-of-eastern-redcedars-in-western-oklahoma) |	KOSU/Report for America |	March 15, 2023
 - [Oklahoma rejects EPA plan to transfer contaminated soil from East Palestine to hazardous waste facility](https://www.kosu.org/energy-environment/2023-03-14/oklahoma-rejects-epa-plan-to-transfer-contaminated-soil-from-east-palestine-to-hazardous-waste-facility) |	KOSU/Report for America	| March 14, 2023
 - [No danger to the public' after train derails in Northeast Oklahoma](https://www.kosu.org/local-news/2023-03-09/no-danger-to-the-public-after-train-derails-in-northeast-oklahoma) |	KOSU/Report for America	| March 9, 2023
