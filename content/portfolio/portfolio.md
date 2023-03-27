@@ -13,6 +13,7 @@ design:
   columns: '1'
 ---
 ## 2023
+- [Tighter regulations on medical marijuana growers move through the Oklahoma legislature](https://www.kosu.org/energy-environment/2023-03-24/tighter-regulations-on-medical-marijuana-growers-move-through-the-oklahoma-legislature) |	KOSU/Report for America	| March 24, 2023
 - [Oklahoma opens applications for water, sewer bill assistance](https://www.kosu.org/local-news/2023-03-22/oklahoma-opens-applications-for-water-sewer-bill-assistance) |	KOSU/Report for America |	March 22, 2023
 - [EPA says Oklahoma cannot refuse to dispose of waste from Ohio train derailment](https://www.kosu.org/energy-environment/2023-03-21/epa-says-oklahoma-cannot-refuse-to-dispose-of-waste-from-ohio-train-derailment) |	KOSU/Report for America |	March 21, 2023
 - [Drummond sues EPA for rejecting Oklahoma's plan to reduce harmful emissions, calls new federal plan 'burdensome'](https://www.kosu.org/energy-environment/2023-03-17/drummond-sues-epa-for-rejecting-oklahomas-plan-to-reduce-harmful-emissions-calls-new-federal-plan-burdensome) |	KOSU/Report for America |	March 17, 2023
