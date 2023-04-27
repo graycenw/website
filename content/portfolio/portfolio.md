@@ -13,7 +13,8 @@ design:
   columns: '1'
 ---
 ## 2023
-- [Oklahoma House passes surprise bill tying teacher raises to Stitt’s voucher-like tax credit program](https://www.kosu.org/education/2023-04-26/oklahoma-house-passes-surprise-bill-tying-teacher-raises-to-stitts-voucher-like-tax-credit-program) |	KOSU/Report for America	| April 27, 2023
+- [PSO guarantees customer protections as Corporation Commission considers rate hike for solar, wind projects	](https://www.kosu.org/energy-environment/2023-04-27/pso-guarantees-customer-protections-as-corporation-commission-considers-rate-hike-for-solar-wind-projects) |	KOSU/Report for America	| April 27, 2023
+- [Oklahoma House passes surprise bill tying teacher raises to Stitt’s voucher-like tax credit program](https://www.kosu.org/education/2023-04-26/oklahoma-house-passes-surprise-bill-tying-teacher-raises-to-stitts-voucher-like-tax-credit-program) |	KOSU/Report for America	| April 26, 2023
 - [Oklahoma April showers could help drought without too much flash flood risk](https://www.kosu.org/energy-environment/2023-04-26/oklahoma-april-showers-could-help-drought-without-too-much-flash-flood-risk) |	KOSU/Report for America	| April 26, 2023
 - [Tornadoes in Central Oklahoma kill 3, Governor Stitt declares a state of emergency in 5 counties](https://www.kosu.org/local-news/2023-04-20/tornadoes-cause-widespread-damage-in-central-oklahoma-at-least-three-fatalities) |	KOSU/Report for America	| April 20, 2023
 - [A Northeast Oklahoma grassroots group suing for more say on poultry farms will have its day in court](https://www.kosu.org/energy-environment/2023-04-19/a-northeast-oklahoma-grassroots-group-suing-for-more-say-on-poultry-farms-will-have-its-day-in-court) |	KOSU/Report for America	| April 19, 2023
