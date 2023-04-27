@@ -13,6 +13,10 @@ design:
   columns: '1'
 ---
 ## 2023
+- [Oklahoma House passes surprise bill tying teacher raises to Stitt’s voucher-like tax credit program](https://www.kosu.org/education/2023-04-26/oklahoma-house-passes-surprise-bill-tying-teacher-raises-to-stitts-voucher-like-tax-credit-program) |	KOSU/Report for America	| April 27, 2023
+- [Oklahoma April showers could help drought without too much flash flood risk](https://www.kosu.org/energy-environment/2023-04-26/oklahoma-april-showers-could-help-drought-without-too-much-flash-flood-risk) |	KOSU/Report for America	| April 26, 2023
+- [Tornadoes in Central Oklahoma kill 3, Governor Stitt declares a state of emergency in 5 counties](https://www.kosu.org/local-news/2023-04-20/tornadoes-cause-widespread-damage-in-central-oklahoma-at-least-three-fatalities) |	KOSU/Report for America	| April 20, 2023
+- [A Northeast Oklahoma grassroots group suing for more say on poultry farms will have its day in court](https://www.kosu.org/energy-environment/2023-04-19/a-northeast-oklahoma-grassroots-group-suing-for-more-say-on-poultry-farms-will-have-its-day-in-court) |	KOSU/Report for America	| April 19, 2023
 - [Millions of federal dollars will help replace aging, undersized bridges in Northwestern Oklahoma](https://www.kosu.org/local-news/2023-04-14/millions-of-federal-dollars-will-help-replace-aging-undersized-bridges-in-northwestern-oklahoma) |	KOSU/Report for America	| April 14, 2023
 - [Federal judge blocks expanded EPA water regulations for Oklahoma and other states](https://www.kosu.org/energy-environment/2023-04-13/federal-judge-blocks-expanded-epa-water-regulations-for-oklahoma-and-other-states) |	KOSU/Report for America |	April 13, 2023
 - [Fire chances rising in Western Oklahoma as drought conditions persist](https://www.kosu.org/energy-environment/2023-04-12/fire-chances-rising-in-western-oklahoma-as-drought-conditions-persist) |	KOSU/Report for America |	April 12, 2023
