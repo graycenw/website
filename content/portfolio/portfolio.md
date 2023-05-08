@@ -13,6 +13,9 @@ design:
   columns: '1'
 ---
 ## 2023
+- [As Oklahoma City considers new development, residents raise concerns about area's underground water supply](https://www.kosu.org/energy-environment/2023-05-08/as-oklahoma-city-considers-new-development-residents-raise-concerns-about-areas-underground-water-supply) |	KOSU/Report for America |	May 8, 2023
+- [Oklahoma DEQ says not to use McAlester water after fire truck was used as improvised pump	](ttps://www.kosu.org/energy-environment/2023-05-04/oklahoma-deq-says-not-to-use-mcalester-water-after-the-city-used-a-fire-truck-as-an-improvised-pump) |	KOSU/Report for America |	May 4, 2023
+- [Oklahoma legislature moves to exempt natural gas industry from price gouging law](https://www.kosu.org/energy-environment/2023-05-01/oklahoma-legislature-moves-to-exempt-natural-gas-industry-from-price-gouging-law) |	KOSU/Report for America	| May 1, 2023
 - [PSO guarantees customer protections as Corporation Commission considers rate hike for solar, wind projects	](https://www.kosu.org/energy-environment/2023-04-27/pso-guarantees-customer-protections-as-corporation-commission-considers-rate-hike-for-solar-wind-projects) |	KOSU/Report for America	| April 27, 2023
 - [Oklahoma House passes surprise bill tying teacher raises to Stitt’s voucher-like tax credit program](https://www.kosu.org/education/2023-04-26/oklahoma-house-passes-surprise-bill-tying-teacher-raises-to-stitts-voucher-like-tax-credit-program) |	KOSU/Report for America	| April 26, 2023
 - [Oklahoma April showers could help drought without too much flash flood risk](https://www.kosu.org/energy-environment/2023-04-26/oklahoma-april-showers-could-help-drought-without-too-much-flash-flood-risk) |	KOSU/Report for America	| April 26, 2023
