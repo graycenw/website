@@ -13,6 +13,14 @@ design:
   columns: '1'
 ---
 ## 2023
+
+- [Oklahomans brace for the highest temperatures of the year so far](https://www.kosu.org/local-news/2023-06-28/oklahomans-brace-for-the-highest-temperatures-of-the-year-so-far) |	KOSU/Report for America	| June 28, 2023
+- [Oklahoma releases updated guidelines about mercury in fish](https://www.kosu.org/energy-environment/2023-06-23/oklahoma-releases-updated-guidelines-about-mercury-in-fish) |	KOSU/Report for America	| June 23, 2023
+- [As Guthrie deals with blue-green algae, upstream treatment plant problems persist](https://www.kosu.org/energy-environment/2023-06-23/as-guthrie-deals-with-blue-green-algae-upstream-treatment-plant-problems-persist) |	KOSU/Report for America	| June 23, 2023
+- [State of Emergency declared for 10 counties in eastern Oklahoma](https://www.kosu.org/local-news/2023-06-19/oklahoma-continues-recovery-following-weekend-storms) |	KOSU/Report for America |	June 21, 2023
+- [Guthrie warns people to avoid Liberty Lake during blue-green algae bloom, says drinking water isn't affected](https://www.kosu.org/local-news/2023-06-16/guthrie-warns-people-to-avoid-liberty-lake-during-blue-green-algae-bloom-says-drinking-water-isnt-affected) |	KOSU/Report for America |	June 16, 2023
+- [Oklahoma chicken litter lawsuit will go into federal remediation with clean-up plan postponed again](https://www.kosu.org/energy-environment/2023-06-15/oklahoma-chicken-litter-lawsuit-will-go-into-federal-remediation-with-clean-up-plan-postponed-again) |	KOSU/Report for America	| June 15, 2023
+- [Oklahoma will conduct $3.3 million experiment on slowing spread of eastern redcedar](https://www.kosu.org/energy-environment/2023-06-14/oklahoma-will-conduct-3-3-million-experiment-on-slowing-spread-of-eastern-redcedar) |	KOSU/Report for America |	June 14, 2023
 - [Oklahoma has restored nearly 100 unhealthy streams thanks to water monitoring, regenerative agriculture](https://www.kosu.org/energy-environment/2023-06-12/oklahoma-has-restored-nearly-100-unhealthy-streams-thanks-to-water-monitoring-regenerative-agriculture) |	KOSU/Report for America |	June 12, 2023
 - [Will Norman raise water rates to fund improvements the city says are necessary? It's up to residents](https://www.kosu.org/local-news/2023-06-09/will-norman-raise-water-rates-to-fund-improvements-the-city-says-are-necessary-its-up-to-residents) |	KOSU/Report for America |	June 9, 2023
 - [Oil-laced mud spills into northern Oklahoma creek after heavy rainfall](https://www.kosu.org/energy-environment/2023-06-06/oil-laced-mud-spills-into-northern-oklahoma-creek-after-heavy-rainfall) |	KOSU/Report for America |	June 6, 2023
