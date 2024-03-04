@@ -55,53 +55,22 @@ design:
 - [EPA-funded environmental justice projects coming to Chickasaw Nation, East OKC neighborhood](https://www.kosu.org/energy-environment/2023-10-27/epa-funded-environmental-justice-projects-coming-to-chickasaw-nation-east-okc-neighborhood) | KOSU/Report for America | October 27, 2023
 - [Oklahoma lawmakers discuss aquifer management solutions](https://www.kosu.org/energy-environment/2023-10-25/oklahoma-lawmakers-discuss-aquifer-management-solutions) | KOSU/Report for America | October 25, 2023
 - [Norman will begin surveying pre-1950s homes for lead service lines](https://www.kosu.org/health/2023-10-12/norman-will-begin-surveying-pre-1950s-homes-for-lead-service-lines) | KOSU/Report for America | October 12, 2023
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America | 
+- [Four Oklahomans incur heavy penalties for killing protected whooping cranes](https://www.kosu.org/energy-environment/2023-10-11/four-oklahomans-incur-heavy-penalties-for-killing-protected-whooping-cranes) | KOSU/Report for America | October 11, 2023
+- [Edmond's Pelican Bay 'hemorrhaging' thousands of gallons a day this summer](https://www.kosu.org/local-news/2023-10-10/edmonds-pelican-bay-hemorrhaging-thousands-of-gallons-a-day-this-summer) | KOSU/Report for America | October 10, 2023
+- [As aquifer levels decline in the Great Plains, states like Oklahoma weigh the need to meter irrigation wells](https://www.kosu.org/energy-environment/2023-10-10/as-aquifer-levels-decline-in-the-great-plains-states-like-oklahoma-weigh-the-need-to-meter-irrigation-wells) | KOSU/Report for America | October 10, 2023
+- [After Gov. Stitt declines to testify, Oklahoma Senate adjourns special session on same day it started](https://www.kosu.org/politics/2023-10-03/gov-stitt-and-house-speaker-mccall-want-oklahoma-on-the-path-to-no-income-tax) | KOSU/Report for America | October 3, 2023
+- [ODOT approves plans for $9 billion in road and bridge improvements by 2031](https://www.kosu.org/local-news/2023-10-03/odot-approves-plans-for-9-billion-in-road-and-bridge-improvements-by-2031) | KOSU/Report for America | October 3, 2023
+- [Developers plan electric vehicle-ready subdivision in Northwest Oklahoma City](https://www.kosu.org/energy-environment/2023-09-29/developers-plan-electric-vehicle-ready-subdivision-in-northwest-oklahoma-city) | KOSU/Report for America | September 29, 2023
+- [Oklahoma City receives more than $50 million for wastewater projects]https://www.kosu.org/energy-environment/2023-09-25/oklahoma-city-receives-more-than-50-million-for-wastewater-projects() | KOSU/Report for America | September 25, 2023
+- [Sedalia's in Oklahoma City listed among best new restaurants in the nation](https://www.kosu.org/food-drink/2023-09-22/sedalias-in-oklahoma-city-listed-among-best-new-restaurants-in-the-nation) | KOSU/Report for America | September 22, 2023
+- [Tribal nations in Oklahoma receive federal funds to plug orphaned oil and gas wells](https://www.kosu.org/local-news/2023-09-22/tribal-nations-in-oklahoma-receive-federal-funds-to-plug-orphaned-oil-and-gas-wells) | KOSU/Report for America | September 22, 2023
+- [OSU Extension brings free well water testing to county fairs across Oklahoma](https://www.kosu.org/energy-environment/2023-09-15/osu-extension-brings-free-well-water-testing-to-county-fairs-across-oklahoma) | KOSU/Report for America | September 15, 2023
+- [Edmond City Council approves water, sewer rate increases to fund infrastructure improvements](https://www.kosu.org/local-news/2023-09-14/edmond-city-council-approves-water-sewer-rate-increases-to-fund-infrastructure-improvements) | KOSU/Report for America | September 14, 2023
+- [Oklahoma Attorney General announces potential lawsuits over 'forever chemicals' pollution](https://www.kosu.org/energy-environment/2023-09-14/oklahoma-attorney-general-announces-potential-lawsuits-over-forever-chemicals-pollution) | KOSU/Report for America | September 14, 2023
+- [Oklahoma's newest Superfund site has radiation in its soil, ponds, and groundwater](https://www.kosu.org/energy-environment/2023-09-08/ponds-of-radioactive-waste-in-muskogee-are-part-of-oklahomas-newest-superfund-site) | KOSU/Report for America | September 8, 2023
+- [Oklahoma Department of Education announces partnership with conservative online media company PragerU](https://www.kosu.org/education/2023-09-06/oklahoma-department-of-education-announces-partnership-with-conservative-online-media-company-prageru) | KOSU/Report for America | September 6, 2023
+- [Tulsa promises water quality monitoring in Zink Lake after completion of nearby construction project](https://www.kosu.org/energy-environment/2023-09-01/tulsa-promises-water-quality-monitoring-in-zink-lake-after-completion-of-nearby-construction-project) | KOSU/Report for America | September 1, 2023
+- [Nationwide analysis of water wells shows groundwater decline in Oklahoma](https://www.kosu.org/energy-environment/2023-08-30/nationwide-analysis-of-water-wells-shows-groundwater-decline-in-oklahoma) | KOSU/Report for America | August 30, 2023
 - [Oklahoma City begins search to root out lead water service lines](https://www.kosu.org/health/2023-08-28/oklahoma-city-begins-search-to-root-out-lead-water-service-lines) | KOSU/Report for America | August 28, 2023
 - [Oklahoma's regional power grid sees highest-ever demand as temperatures soar](https://www.kosu.org/energy-environment/2023-08-25/oklahomas-regional-power-grid-sees-highest-ever-demand-as-temperatures-soar) | KOSU/Report for America | August 25, 2023
 - [Bird spotting: Oklahoma State University festoons windows with dots to prevent bird collisions](https://www.kosu.org/energy-environment/2023-08-24/bird-spotting-oklahoma-state-university-festoons-windows-with-dots-to-prevent-bird-collisions) | KOSU/Report for America | August 24, 2023
