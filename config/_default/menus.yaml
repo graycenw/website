@@ -10,9 +10,9 @@ main:
   - name: Portfolio
     url: 'portfolio'
     weight: 15
-  - name: Podcasting
-    url: '/podcasting'
-    weight: 20
+#  - name: Podcasting
+#    url: '/podcasting'
+#    weight: 20
   - name: Multimedia
     url: '/multimedia'
     weight: 30
