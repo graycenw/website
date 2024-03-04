@@ -43,18 +43,18 @@ design:
 - [Oklahoma awards American Airlines $22 million to expand operations in Tulsa](https://www.kosu.org/business/2023-12-14/oklahoma-awards-american-airlines-22-million-to-expand-operations-in-tulsa) | KOSU/Report for America | December 14, 2023
 - [Christmas tree drama: Why many states like Oklahoma want to get rid of the eastern redcedar](https://www.kosu.org/energy-environment/2023-12-13/christmas-tree-drama-why-many-states-like-oklahoma-want-to-get-rid-of-the-eastern-redcedar) | KOSU/Report for America | December 13, 2023
 - [Why Oklahoma City's drinking water may smell, taste different](https://www.kosu.org/local-news/2023-12-13/why-oklahoma-citys-drinking-water-may-smell-taste-different) | KOSU/Report for America | December 13, 2023
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
-- []() | KOSU/Report for America |
+- [Proposed Amtrak route between Oklahoma City and central Kansas selected for federal funding](https://www.kosu.org/local-news/2023-12-12/proposed-amtrak-route-between-oklahoma-city-and-central-kansas-selected-for-federal-funding) | KOSU/Report for America | December 12, 2023
+- [Proposed rules aim to reshape how Oklahomans value native fish](https://www.kosu.org/energy-environment/2023-12-07/proposed-rules-aim-to-reshape-how-oklahomans-value-native-fish) | KOSU/Report for America | December 7, 2023
+- [Federal judges say no take backs on Wynnewood Refinery's exemption from renewable fuel requirements](https://www.kosu.org/energy-environment/2023-11-29/federal-judges-say-no-take-backs-on-wynnewood-refinerys-exemption-from-renewable-fuel-requirements) | KOSU/Report for America | November 29, 2023
+- [What the new National Climate Assessment says is in store for Oklahoma](https://www.kosu.org/energy-environment/2023-11-15/what-the-new-national-climate-assessment-says-is-in-store-for-oklahoma) | KOSU/Report for America | November 15, 2023
+- [Oklahoma City volunteers protect water resources by picking up trash](https://www.kosu.org/energy-environment/2023-11-14/oklahoma-city-volunteers-protect-water-resources-by-picking-up-trash) | KOSU/Report for America | November 14, 2023
+- [Officials say they're optimistic Kansas-Oklahoma rail route is on track for federal funding](https://www.kosu.org/local-news/2023-11-10/officials-say-theyre-optimistic-kansas-oklahoma-rail-route-is-on-track-for-federal-funding) | KOSU/Report for America | November 10, 2023
+- [AG Drummond orders Oklahoma Corporation Commission to hand over communications about 2021 winter storm natural gas charges](https://www.kosu.org/energy-environment/2023-11-09/ag-drummond-orders-oklahoma-corporation-commission-to-hand-over-communications-about-2021-winter-storm-natural-gas-charges) | KOSU/Report for America | November 9, 2023
+- [Hunting, fishing rules could change under Oklahoma Wildlife Department proposal](https://www.kosu.org/energy-environment/2023-11-08/hunting-fishing-rules-could-change-under-oklahoma-wildlife-department-proposal) | KOSU/Report for America | November 8, 2023
+- [Poultry companies ask judge to throw out ruling in decades-old case over polluted Oklahoma river](https://www.kosu.org/energy-environment/2023-11-01/poultry-companies-ask-judge-to-throw-out-ruling-in-decades-old-case-over-polluted-oklahoma-river) | KOSU/Report for America | November 1, 2023
+- [EPA-funded environmental justice projects coming to Chickasaw Nation, East OKC neighborhood](https://www.kosu.org/energy-environment/2023-10-27/epa-funded-environmental-justice-projects-coming-to-chickasaw-nation-east-okc-neighborhood) | KOSU/Report for America | October 27, 2023
+- [Oklahoma lawmakers discuss aquifer management solutions](https://www.kosu.org/energy-environment/2023-10-25/oklahoma-lawmakers-discuss-aquifer-management-solutions) | KOSU/Report for America | October 25, 2023
+- [Norman will begin surveying pre-1950s homes for lead service lines](https://www.kosu.org/health/2023-10-12/norman-will-begin-surveying-pre-1950s-homes-for-lead-service-lines) | KOSU/Report for America | October 12, 2023
 - []() | KOSU/Report for America |
 - []() | KOSU/Report for America |
 - []() | KOSU/Report for America |
