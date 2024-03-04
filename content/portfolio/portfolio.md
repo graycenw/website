@@ -12,7 +12,96 @@ subtitle: ""
 design:
   columns: '1'
 ---
+## 2024
+- [Proposed legislation could overhaul how Oklahomans get a license plate after buying a used car](https://www.kosu.org/local-news/2024-03-04/proposed-legislation-could-overhaul-how-oklahomans-get-a-license-plate-after-buying-a-used-car) | KOSU/Report for America | March 4, 2024
+- [4 Oklahomans convicted in $100 million construction bid rigging conspiracy](https://www.kosu.org/local-news/2024-03-01/4-oklahomans-convicted-in-100-million-construction-bid-rigging-conspiracy) | KOSU/Report for America | March 1, 2024
+- [Bless you, Oklahoma: Windy weather kicks up tree pollen, wildfire smoke](https://www.kosu.org/energy-environment/2024-02-29/bless-you-oklahoma-windy-weather-kicks-up-tree-pollen-wildfire-smoke) | KOSU/Report for America | February 29, 2024
+- [Will Rogers World Airport hopeful new customs facility leads to nonstop international flights](https://www.kosu.org/local-news/2024-02-26/will-rogers-world-airport-hopeful-new-customs-facility-leads-to-nonstop-international-flights) | KOSU/Report for America | February 26, 2024
+- [Are there ancient trees in your neck of the woods? Project surveys Oklahoma's Cross Timbers](https://www.kosu.org/energy-environment/2024-02-20/are-there-ancient-trees-in-your-neck-of-the-woods-project-surveys-oklahomas-cross-timbers) | KOSU/Report for America | February 20, 2024
+- [Oklahoma-based railway prohibited from operating trains due to 'imminent threat to safety'](https://www.kosu.org/business/2024-02-13/oklahoma-based-railway-prohibited-from-operating-trains-due-to-imminent-threat-to-safety) | KOSU/Report for America | February 13, 2024
+- [Oklahoma lawmakers consider water metering requirements for irrigators, cannabis growers](https://www.kosu.org/energy-environment/2024-02-12/oklahoma-lawmakers-consider-water-metering-requirements-for-irrigators-cannabis-growers) | KOSU/Report for America | February 12, 2024
+- [Swadley's Bar-B-Q owner, two others indicted on criminal fraud, conspiracy charges](https://www.kosu.org/local-news/2024-02-09/swadleys-bar-b-q-owner-two-others-indicted-on-criminal-fraud-conspiracy-charges) | KOSU/Report for America | February 9, 2024
+- [Oklahoma Governor lays out priorities: income tax cuts, flat state budget, more school choice](https://www.kosu.org/politics/2024-02-05/oklahoma-governor-lays-out-priorities-income-tax-cuts-flat-state-budget-more-school-choice) | KOSU/Report for America | February 5, 2024
+- [Tulsa remains optimistic about Zink Lake progress, officials explain water testing plan](https://www.kosu.org/energy-environment/2024-02-02/tulsa-remains-optimistic-about-zink-lake-progress-officials-explain-water-testing-plan) | KOSU/Report for America | February 2, 2024
+- [Oil companies agree to pay $7.4 million and clean up after oil spill in Northern Oklahoma creek](https://www.kosu.org/energy-environment/2024-01-31/oil-companies-agree-to-pay-7-4-million-and-clean-up-after-oil-spill-in-northern-oklahoma-creek) | KOSU/Report for America | January 31, 2024
+- [Rain barrel sale helps Oklahomans save springtime showers for dusty summer months](https://www.kosu.org/energy-environment/2024-01-29/rain-barrel-sale-helps-oklahomans-save-springtime-showers-for-dusty-summer-months) | KOSU/Report for America | January 29, 2024
+- [Water issues plague towns across Oklahoma after freezing weather](https://www.kosu.org/local-news/2024-01-26/water-issues-plague-towns-across-oklahoma-after-freezing-weather) | KOSU/Report for America | January 26, 2024
+- [FERC holds Grand River Dam Authority responsible for Northeast Oklahoma flooding ](https://www.kosu.org/energy-environment/2024-01-24/ferc-holds-grand-river-dam-authority-responsible-for-northeast-oklahoma-flooding) | KOSU/Report for America | January 24, 2024
+- ['Killers of the Flower Moon' gets 10 Oscar nominations](https://www.kosu.org/2024-01-23/killers-of-the-flower-moon-gets-10-oscar-nominations) | KOSU/Report for America | January 23, 2024
+- [What to watch for during Oklahoma's 2024 legislative session](https://www.kosu.org/oklahoma-legislative-session-2024) | KOSU/Report for America | January 22, 2024
+- [Oklahoma State Senator authors bill to limit freedom of the press](https://www.kosu.org/local-news/2024-01-19/oklahoma-state-senator-authors-bill-to-limit-freedom-of-the-press) | KOSU/Report for America | January 19, 2024
+- [Oklahoma Wildlife Conservation Commission delays vote on rules to restrict bowfishing, protect native non-game fish](https://www.kosu.org/energy-environment/2024-01-16/oklahoma-wildlife-conservation-commission-delays-vote-on-rules-to-restrict-bowfishing-protect-native-non-game-fish) | KOSU/Report for America | January 16, 2024
+- [Here's what you need to know as Arctic blast moves through Oklahoma](https://www.kosu.org/energy-environment/2024-01-12/what-officials-say-oklahomans-should-know-to-keep-their-homes-safe-and-warm-during-cold-weather) | KOSU/Report for America | January 12, 2024
+- [Oklahoma Hydronet aims to track aquifer levels in real-time across the state](https://www.kosu.org/energy-environment/2024-01-09/its-10-p-m-do-you-know-where-your-water-is-if-not-the-new-oklahoma-hydronet-can-help) | KOSU/Report for America | January 9, 2024
+- [Stillwater approves funds to upgrade aging water pump stations](https://www.kosu.org/local-news/2024-01-02/stillwater-approves-funds-to-upgrade-aging-water-pump-stations) | KOSU/Report for America | January 2, 2024
+
 ## 2023
+- [Tulsa plans to start installing automated water meters in January](https://www.kosu.org/local-news/2023-12-21/tulsa-plans-to-start-installing-automated-water-meters-in-january) | KOSU/Report for America | December 21, 2023
+- [Oklahoma AG's Office launches tip line for info on natural gas prices during Winter Storm Uri](https://www.kosu.org/energy-environment/2023-12-20/oklahoma-ags-office-launches-tip-line-for-info-on-natural-gas-prices-during-winter-storm-uri) | KOSU/Report for America | December 20, 2023
+- [Oklahoma Rural Water Association PAC turns itself in for ethics violations](https://www.kosu.org/local-news/2023-12-19/oklahoma-rural-water-association-pac-turns-itself-in-for-ethics-violations) | KOSU/Report for America | December 19, 2023
+- [OKC arena vote receives strong support compared to past sales tax propositions](https://www.kosu.org/local-news/2023-12-15/okc-arena-vote-receives-strong-support-compared-to-past-sales-tax-propositions) | KOSU/Report for America | December 15, 2023
+- [Oklahoma awards American Airlines $22 million to expand operations in Tulsa](https://www.kosu.org/business/2023-12-14/oklahoma-awards-american-airlines-22-million-to-expand-operations-in-tulsa) | KOSU/Report for America | December 14, 2023
+- [Christmas tree drama: Why many states like Oklahoma want to get rid of the eastern redcedar](https://www.kosu.org/energy-environment/2023-12-13/christmas-tree-drama-why-many-states-like-oklahoma-want-to-get-rid-of-the-eastern-redcedar) | KOSU/Report for America | December 13, 2023
+- [Why Oklahoma City's drinking water may smell, taste different](https://www.kosu.org/local-news/2023-12-13/why-oklahoma-citys-drinking-water-may-smell-taste-different) | KOSU/Report for America | December 13, 2023
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America |
+- []() | KOSU/Report for America | 
 - [Oklahoma City begins search to root out lead water service lines](https://www.kosu.org/health/2023-08-28/oklahoma-city-begins-search-to-root-out-lead-water-service-lines) | KOSU/Report for America | August 28, 2023
 - [Oklahoma's regional power grid sees highest-ever demand as temperatures soar](https://www.kosu.org/energy-environment/2023-08-25/oklahomas-regional-power-grid-sees-highest-ever-demand-as-temperatures-soar) | KOSU/Report for America | August 25, 2023
 - [Bird spotting: Oklahoma State University festoons windows with dots to prevent bird collisions](https://www.kosu.org/energy-environment/2023-08-24/bird-spotting-oklahoma-state-university-festoons-windows-with-dots-to-prevent-bird-collisions) | KOSU/Report for America | August 24, 2023
