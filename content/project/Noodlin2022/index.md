@@ -10,6 +10,6 @@ date: "2024-01-01T12:00:00Z"
 external_link: https://www.kosu.org/local-news/2024-06-17/thousands-flock-to-pauls-valley-for-okie-noodling-tournament
 
 image:
-  caption: "Sandbox Studio, Chicago"
+  caption: "Martin Wilson for KOSU"
   focal_point: Smart
 ---
