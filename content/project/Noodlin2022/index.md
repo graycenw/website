@@ -1,5 +1,5 @@
 ---
-title: Thousands flock to Pauls Valley for Okie Noodling Tournament?
+title: Thousands flock to Pauls Valley for Okie Noodling Tournament
 summary: KOSU and NPR | June 17, 2024
 tags:
 - writing
